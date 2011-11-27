@@ -18,7 +18,7 @@ Currently the following translations are available:
 * German (Deutsch)
 * French (Fran&ccedil;ais)
 * Spanish (Espa&ntilde;ol)
-* Italian (Italiono)
+* Italian (Italiano)
 * Finnish 
 * Swedish
 * Romanian
