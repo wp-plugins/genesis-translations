@@ -5,7 +5,7 @@
 * Plugin URI: http://remkusdevries.com/
 * Description: This plugin will translate Genesis in the available languages.
 * Author: Remkus de Vries
-* Version: 1.0
+* Version: 0.1
 * Author URI: http://remkusdevries.com/
 */
 
