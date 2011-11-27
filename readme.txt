@@ -16,7 +16,7 @@ Currently the following translations are available:
 
 * Dutch (Nederlands)
 * German (Deutsch)
-* French (Français)
+* French (Fran&ccedil;ais)
 * Spanish (Espagnol)
 * Italian (Italiono)
 * Finnish 
