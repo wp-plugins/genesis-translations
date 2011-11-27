@@ -6,7 +6,7 @@ Requires at least: 3.1
 Tested up to: 3.3 beta 4
 Stable tag: 0.1
 
-Translate your Genesis powered WordPress site in one of the available languages.
+Translate your Genesis powered WordPress site into one of the available languages.
 
 == Description ==
 
@@ -17,12 +17,14 @@ Currently the following translations are available:
 * Dutch (Nederlands)
 * German (Deutsch)
 * French (Fran&ccedil;ais)
-* Spanish (Espagnol)
+* Spanish (Espa&ntilde;ol)
 * Italian (Italiono)
 * Finnish 
 * Swedish
 * Romanian
 * Indonesian
+
+So you don't see your language up here and you would like to see it added? [Please contact me](http://www.forsitemedia.net/contact/ "Please contact me") and we'll get you sorted.
 
 == Installation ==
 
