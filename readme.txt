@@ -13,6 +13,7 @@ Translate your Genesis powered WordPress site in one of the available languages.
 This plugin translates your Genesis powered WordPress site easily with one of the available languages. 
 
 Currently the following translations are available:
+
 * Dutch (Nederlands)
 * German (Deutsch)
 * French (Français)
