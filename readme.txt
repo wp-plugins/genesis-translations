@@ -4,13 +4,15 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_i
 Tags: genesis, translations,
 Requires at least: 3.1
 Tested up to: 3.3 beta 4
-Stable tag: 0.1
+Stable tag: 1.0
 
 Translate your Genesis powered WordPress site into one of the available languages.
 
 == Description ==
 
 This plugin translates your Genesis powered WordPress site easily with one of the available languages. 
+
+No need to fuss about with your <code>functions.php</code> file. Install this plugin et voil&aacute;!
 
 Currently the following translations are available:
 
@@ -45,14 +47,6 @@ You most certainly can. Contact me via [Twitter](http://twitter.com/DeFries "My 
 
 No screenshots (yet). Let me know if you need some.
 
-== Languages ==
-
-This plugin couldn't have been possible without the help of the following translators:
-
-* Dutch - Remkus de Vries
-* ( will complete this list a.s.a.p.)
-
-
 == Changelog ==
 
 
@@ -68,6 +62,11 @@ Upgrade from nothingness just to be one of the cool kids.
 
 
 == Other Notes ==
+
+This plugin couldn't have been possible without the help of the following translators:
+
+* Dutch - Remkus de Vries
+* ( will complete this list a.s.a.p.)
 
 You can find me here:
 
