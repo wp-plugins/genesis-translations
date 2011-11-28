@@ -45,13 +45,17 @@ Or search for "Genesis Translations" via your plugins menu.
 
 == Frequently Asked Questions ==
 
-= How can I see my language added to this plugin?
+= How can I see my language added to this plugin? =
 
 [Please contact me](http://www.forsitemedia.net/contact/ "Please contact me") or [Twitter](http://twitter.com/DeFries "My Twitter Account") and we'll get you sorted.
 
 = Can I make a suggestion =
 
 You most certainly can. [Please contact me](http://www.forsitemedia.net/contact/ "Please contact me") or [Twitter](http://twitter.com/DeFries "My Twitter Account") and we'll get you sorted.
+
+= Where can I find the list of languages being worked on? = 
+
+Visit the [StudioPress GlotPress installation](http://translate.studiopress.com/projects/genesis-framework/genesis-17 "GlotPress installation") to see the complete list of languages being worked on.
 
 == Screenshots ==
 
