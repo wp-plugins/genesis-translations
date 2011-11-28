@@ -9,7 +9,7 @@
 * Plugin URI: http://remkusdevries.com/
 * Description: This plugin will translate Genesis in the available languages.
 * Author: Remkus de Vries
-* Version: 1.0
+* Version: 1.0.1
 * Author URI: http://remkusdevries.com/
 * License: GPLv2
 * Text Domain: genesis-translations
@@ -101,6 +101,6 @@ function fst_set_genesis_language_dir() {
 	
 	$fstlang = WP_CONTENT_DIR.'/plugins/' .str_replace( basename( __FILE__ ),"", plugin_basename( __FILE__ ) );
 	
-	define( 'GENESIS_LANGUAGES_DIR', $fstlang . 'genesis-translation/' );
+	define( 'GENESIS_LANGUAGES_DIR', $fstlang . 'genesis-translations/' );
 	
 }
