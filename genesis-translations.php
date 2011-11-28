@@ -101,6 +101,6 @@ function fst_set_genesis_language_dir() {
 	
 	$fstlang = WP_CONTENT_DIR.'/plugins/' .str_replace( basename( __FILE__ ),"", plugin_basename( __FILE__ ) );
 	
-	define( 'GENESIS_LANGUAGES_DIR', $fstlang . 'genesis-translation-files/' );
+	define( 'GENESIS_LANGUAGES_DIR', $fstlang . 'genesis-translation/' );
 	
 }
