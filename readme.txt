@@ -12,26 +12,27 @@ Translate your Genesis powered WordPress site into one of the available language
 
 This plugin translates your Genesis powered WordPress site easily with one of the available languages. 
 
-No need to fuss about with your `functions.php` file. Install this plugin et voil&aacute;!
+No need to fuss about with your `functions.php` file or uploading `.mo` and `.po` files. Just install this plugin et voil&aacute;!
 
-Currently the following translations are available:
+Currently the following translations are available for Genesis 1.7.x:
 
-* Dutch (Nederlands)
-* German (Deutsch)
-* French (Fran&ccedil;ais)
-* Spanish (Espa&ntilde;ol)
-* Italian (Italiano)
-* Finnish 
-* Swedish
-* Indonesian
-* Portuguese - Brazilian
-* Polish ( 96% ready )
-* Hebrew ( 95% ready )
-* Japanese ( 84% ready )
-* Romanian ( 84% ready )
-
+* Dutch - nl_NL (Nederlands)
+* German - de_DE (Deutsch)
+* French - fr_FR (Fran&ccedil;ais)
+* Spanish - es_ES (Espa&ntilde;ol)
+* Italian - it_IT (Italiano)
+* Finnish - fi
+* Swedish - sv_SE
+* Indonesian id_ID
+* Portuguese-Brazilian - pt_BR
+* Polish - pl_PL ( 96% ready )
+* Hebrew - he_IL ( 95% ready )
+* Japanese - ja( 84% ready )
+* Romanian - ro_RO ( 84% ready )
 
 So you don't see your language up here and you would like to see it added? [Please contact me](http://www.forsitemedia.net/contact/ "Please contact me") and we'll get you sorted.
+
+This plugin only works on the [Genesis Framework](http://www.forsite.nu/go/genesis/ "Genesis Framework").
 
 == Installation ==
 
@@ -46,11 +47,11 @@ Or search for "Genesis Translations" via your plugins menu.
 
 = How can I see my language added to this plugin?
 
-[Please contact me](http://www.forsitemedia.net/contact/ "Please contact me") and we'll get you sorted.
+[Please contact me](http://www.forsitemedia.net/contact/ "Please contact me") or [Twitter](http://twitter.com/DeFries "My Twitter Account") and we'll get you sorted.
 
 = Can I make a suggestion =
 
-You most certainly can. Contact me via [Twitter](http://twitter.com/DeFries "My Twitter Account")
+You most certainly can. [Please contact me](http://www.forsitemedia.net/contact/ "Please contact me") or [Twitter](http://twitter.com/DeFries "My Twitter Account") and we'll get you sorted.
 
 == Screenshots ==
 
