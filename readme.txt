@@ -57,6 +57,10 @@ You most certainly can. [Please contact me](http://www.forsitemedia.net/contact/
 
 Visit the [StudioPress GlotPress installation](http://translate.studiopress.com/projects/genesis-framework/genesis-17 "GlotPress installation") to see the complete list of languages being worked on.
 
+= I have your plugin activated but I don't see an options page =
+
+That's because there isn't any. If you have one of the provided languages properly configured in your `wp-config.php` file, then upon activation you should see all matters Genesis automagically translated.
+
 == Screenshots ==
 
 No screenshots (yet). Let me know if you need some.
