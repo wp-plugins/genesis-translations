@@ -3,7 +3,7 @@ Contributors: DeFries
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=4UVLDL3LEG2QG
 Tags: genesis, translations,
 Requires at least: 3.1
-Tested up to: 3.3 beta 4
+Tested up to: 3.3 
 Stable tag: 1.0.1
 
 Translate your Genesis powered WordPress site into one of the available languages.
@@ -12,26 +12,29 @@ Translate your Genesis powered WordPress site into one of the available language
 
 This plugin translates your Genesis powered WordPress site easily with one of the available languages. 
 
-No need to fuss about with your `functions.php` file. Install this plugin et voil&aacute;!
+No need to fuss about with your `functions.php` file or uploading `.mo` and `.po` files. Just install this plugin et voil&aacute;!
 
-Currently the following translations are available:
+Currently the following translations are available for Genesis 1.7.x:
 
-* Dutch (Nederlands)
-* German (Deutsch)
-* French (Fran&ccedil;ais)
-* Spanish (Espa&ntilde;ol)
-* Italian (Italiano)
-* Finnish 
-* Swedish
-* Indonesian
-* Portuguese - Brazilian
-* Polish ( 96% ready )
-* Hebrew ( 95% ready )
-* Japanese ( 84% ready )
-* Romanian ( 84% ready )
+* Dutch - nl_NL (Nederlands)
+* German - de_DE (Deutsch)
+* French - fr_FR (Fran&ccedil;ais)
+* Spanish - es_ES (Espa&ntilde;ol)
+* Italian - it_IT (Italiano)
+* Finnish - fi
+* Swedish - sv_SE
+* Indonesian id_ID
+* Portuguese-Brazilian - pt_BR
+* Greek = el_GR ( Not everything translated in Greek )
+* Polish - pl_PL ( 96% ready )
+* Hebrew - he_IL ( 95% ready )
+* Japanese - ja( 84% ready )
+* Romanian - ro_RO ( 84% ready )
 
 
 So you don't see your language up here and you would like to see it added? [Please contact me](http://www.forsitemedia.net/contact/ "Please contact me") and we'll get you sorted.
+
+This plugin only works on the [Genesis Framework](http://www.forsite.nu/go/genesis/ "Genesis Framework").
 
 == Installation ==
 
@@ -44,19 +47,31 @@ Or search for "Genesis Translations" via your plugins menu.
 
 == Frequently Asked Questions ==
 
-= How can I see my language added to this plugin?
+= How can I see my language added to this plugin? =
 
-[Please contact me](http://www.forsitemedia.net/contact/ "Please contact me") and we'll get you sorted.
+[Please contact me](http://www.forsitemedia.net/contact/ "Please contact me") or [Twitter](http://twitter.com/DeFries "My Twitter Account") and we'll get you sorted.
 
 = Can I make a suggestion =
 
-You most certainly can. Contact me via [Twitter](http://twitter.com/DeFries "My Twitter Account")
+You most certainly can. [Please contact me](http://www.forsitemedia.net/contact/ "Please contact me") or [Twitter](http://twitter.com/DeFries "My Twitter Account") and we'll get you sorted.
+
+= Where can I find the list of languages being worked on? = 
+
+Visit the [StudioPress GlotPress installation](http://translate.studiopress.com/projects/genesis-framework/genesis-17 "GlotPress installation") to see the complete list of languages being worked on.
+
+= I have your plugin activated but I don't see an options page =
+
+That's because there isn't any. If you have one of the provided languages properly configured in your `wp-config.php` file, then upon activation you should see all matters Genesis automagically translated.
 
 == Screenshots ==
 
 No screenshots (yet). Let me know if you need some.
 
 == Changelog ==
+
+= 1.1 = 
+
+Added Greek el_GR to the translations. Note, not all strings have been properly translated to Greek yet, but most of the important stuff has.
 
 = 1.0.1 = 
 
@@ -71,6 +86,10 @@ Fixing a typo. It happens.
 * First release. Just testing things out.
 
 == Upgrade Notice ==
+
+= 1.1 = 
+
+* Adding Greek to translations.
 
 = 0.1 =
 
