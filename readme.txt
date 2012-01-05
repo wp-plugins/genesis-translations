@@ -3,7 +3,7 @@ Contributors: DeFries
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=4UVLDL3LEG2QG
 Tags: genesis, translations,
 Requires at least: 3.1
-Tested up to: 3.3 
+Tested up to: 3.3.1
 Stable tag: 1.1
 
 Translate your Genesis powered WordPress site into one of the available languages.
