@@ -4,7 +4,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_i
 Tags: genesis, translations,
 Requires at least: 3.1
 Tested up to: 3.3.1
-Stable tag: 1.2
+Stable tag: 1.3
 
 Translate your Genesis powered WordPress site into one of the available languages.
 
@@ -14,23 +14,27 @@ This plugin translates your Genesis powered WordPress site easily with one of th
 
 No need to fuss about with your `functions.php` file or uploading `.mo` and `.po` files. Just install this plugin et voil&aacute;!
 
+Currently the following translations are available for Genesis 1.8.x
+
+* Dutch - nl_NL
+* German - de_DE
+* French - fr_FR
+* Danish - da_DK
+* Finnish - fi
+* Romanian - ro_RO
+* Indonesian - id_ID
+* Spanish - es_ES
+* Greek - el_GR (90%)
+* Swedish - sv_SE (90%)
+
+
 Currently the following translations are available for Genesis 1.7.x:
 
-* Dutch - nl_NL (Nederlands)
-* German - de_DE (Deutsch)
-* French - fr_FR (Fran&ccedil;ais)
-* Spanish - es_ES (Espa&ntilde;ol)
 * Italian - it_IT (Italiano)
-* Finnish - fi
-* Swedish - sv_SE
-* Indonesian id_ID
 * Portuguese-Brazilian - pt_BR
-* Greek = el_GR ( Not everything translated in Greek )
 * Polish - pl_PL ( 96% ready )
 * Hebrew - he_IL ( 95% ready )
 * Japanese - ja( 84% ready )
-* Romanian - ro_RO ( 84% ready )
-* Danish - da_DK ( 87% ready )
 
 
 So you don't see your language up here and you would like to see it added? [Please contact me](http://www.forsitemedia.net/contact/ "Please contact me") and we'll get you sorted.
@@ -69,6 +73,10 @@ That's because there isn't any. If you have one of the provided languages proper
 No screenshots (yet). Let me know if you need some.
 
 == Changelog ==
+
+= 1.3 = 
+
+* Updated a bunch to translations to match the translation strings of Genesis 1.8: nl_NL, de_DE, fr_FR, da_DK, fi, ro_RO, id_ID, es_ES, el_GR and sv_SE. 
 
 = 1.2 =
 
