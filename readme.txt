@@ -4,7 +4,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_i
 Tags: genesis, translations,
 Requires at least: 3.1
 Tested up to: 3.3.1
-Stable tag: 1.3
+Stable tag: 1.3.1
 
 Translate your Genesis powered WordPress site into one of the available languages.
 
@@ -23,6 +23,7 @@ Currently the following translations are available for Genesis 1.8.x
 * Finnish - fi
 * Romanian - ro_RO
 * Indonesian - id_ID
+* Vietnamese - vi_VI
 * Spanish - es_ES
 * Greek - el_GR (90%)
 * Swedish - sv_SE (90%)
@@ -73,6 +74,10 @@ That's because there isn't any. If you have one of the provided languages proper
 No screenshots (yet). Let me know if you need some.
 
 == Changelog ==
+
+= 1.3.1 =
+
+* Added the Vietnamese translation and re-added the Greek version to make the file was accurate.
 
 = 1.3 = 
 
