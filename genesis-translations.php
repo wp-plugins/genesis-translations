@@ -9,7 +9,7 @@
 * Plugin URI: http://remkusdevries.com/plugins/genesis-translations/
 * Description: This plugin will translate Genesis in the available languages.
 * Author: Remkus de Vries
-* Version: 1.3.1
+* Version: 1.4
 * Author URI: http://remkusdevries.com/
 * License: GPLv2
 * Text Domain: genesis-translations
@@ -89,7 +89,7 @@ function fst_genesis_translations_version_check( $str, $length=10 ) {
 	return $res;
 }
 
-add_action( 'load_textdomain','fst_set_genesis_language_dir' );
+add_action( 'genesis_init','fst_set_genesis_language_dir', 1 ); // notices fix by @daankortenbach
 /**
  * Defining the Genesis Language constants
  * 
