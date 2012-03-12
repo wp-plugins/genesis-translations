@@ -4,7 +4,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_i
 Tags: genesis, translations,
 Requires at least: 3.1
 Tested up to: 3.3.1
-Stable tag: 1.4
+Stable tag: 1.4.1
 
 Translate your Genesis powered WordPress site into one of the available languages.
 
@@ -25,19 +25,16 @@ Currently the following translations are available for Genesis 1.8.x
 * Indonesian - id_ID
 * Vietnamese - vi_VI
 * Spanish - es_ES
-* Italian - it_IT
-* Portuguese - pt_PT (88%)
-* Turkish - tr_TR (86%)
-* Hebrew - he_IL (87%)
-* Polish - pl_PL (85%)
 * Greek - el_GR (90%)
-* Hungarian - hu_HU (85%)
-* Swedish - sv_SE 
+* Swedish - sv_SE (90%)
 
 
 Currently the following translations are available for Genesis 1.7.x:
 
+* Italian - it_IT (Italiano)
 * Portuguese-Brazilian - pt_BR
+* Polish - pl_PL ( 96% ready )
+* Hebrew - he_IL ( 95% ready )
 * Japanese - ja( 84% ready )
 
 
@@ -78,10 +75,14 @@ No screenshots (yet). Let me know if you need some.
 
 == Changelog ==
 
-= 1.4.0 = 
+= 1.4.1 = 
 
-Updated quite a few languages as well as added a bunch new languages that were more than 85% translated. Namely: Portugues (pt_PT), Hungarian and Turkish.
-Updated the hook where the translation was hooked in to get rid of the notice. Props to Daan Kortenbach for that one.
+SVN somehow did not pick up the languages files. Second try.
+
+= 1.4.0 =
+
+Updated a bunch of translations from http://translate.studiopress.com/
+Added Hungarian, Turkish and Portuguese.
 
 = 1.3.1 =
 
