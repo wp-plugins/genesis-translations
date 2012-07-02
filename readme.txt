@@ -71,6 +71,10 @@ Visit the [StudioPress GlotPress installation](http://translate.studiopress.com/
 
 That's because there isn't any. If you have one of the provided languages properly configured in your `wp-config.php` file, then upon activation you should see all matters Genesis automagically translated.
 
+= When I've activated your plugin there are still some words in English on my site =
+
+Most likely you either have words hardcoded in your child theme's `functions.php` file or you're working with outdated (or incomplete) WordPress translation.
+
 == Screenshots ==
 
 No screenshots (yet). Let me know if you need some.
