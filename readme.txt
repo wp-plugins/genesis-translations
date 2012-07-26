@@ -84,7 +84,7 @@ No screenshots (yet). Let me know if you need some.
 
 = 1.6.0 =
 
-Few minor updates Romanian and Portuguese Brazilian, but mostly added Russian (ru_RU).
+Few minor updates Bulgarian, Romanian, Chinese and Portuguese Brazilian, but mostly added Russian (ru_RU) and Icelandic (is_IS).
 
 = 1.5.0 =
 
