@@ -1,440 +1,440 @@
-# Translation of Genesis 1.8 in Portuguese (Brazil)
+# Translation of Genesis 1.8 in Bulgarian
 # This file is distributed under the same license as the Genesis 1.8 package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2012-07-02 17:49:51+0000\n"
+"PO-Revision-Date: 2012-06-21 10:53:48+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: GlotPress/0.1\n"
 "Project-Id-Version: Genesis 1.8\n"
 
 #: 404.php:33
 msgid "Not Found, Error 404"
-msgstr "Não encontrado, erro 404"
+msgstr "Не е открит, грешка 404"
 
 #: 404.php:35
 msgid "The page you are looking for no longer exists. Perhaps you can return back to the site's <a href=\"%s\">homepage</a> and see if you can find what you are looking for. Or, you can try finding it with the information below."
-msgstr "A página que você está procurando não existe mais. Você pode voltar para o  <a href=\"%s\">homepage</a> e veja se consegue encontrar o que você está procurando. Ou, você pode tentar encontrá-lo com as informações abaixo."
+msgstr "Страницата, която търсите вече не съществува. Може би можете да се върнете обратно към сайта <a href=\"%s\">начало</a> и вижте дали можете да намерите това, което търсите. Или  можете да опитате да го намерите с информацията по-долу."
 
 #: 404.php:39 page_archive.php:35
 msgid "Pages:"
-msgstr "Páginas:"
+msgstr "Страница:"
 
 #: 404.php:44 page_archive.php:40
 msgid "Categories:"
-msgstr "Categorias:"
+msgstr "Категории:"
 
 #: 404.php:53 page_archive.php:49
 msgid "Authors:"
-msgstr "Autores:"
+msgstr "Автори:"
 
 #: 404.php:58 page_archive.php:54
 msgid "Monthly:"
-msgstr "Mensal:"
+msgstr "Месечен:"
 
 #: 404.php:63 page_archive.php:59
 msgid "Recent Posts:"
-msgstr "Posts Recentes:"
+msgstr "Последните публикации:"
 
 #: comments.php:24
 msgid "This post is password protected. Enter the password to view comments."
-msgstr "Este Post é protegido por senha. Digite a senha para ver os comentários."
+msgstr "Тази публикация е защитена с парола. Въведете парола, за да видите коментари."
 
 #: lib/init.php:44
 msgid "Primary Navigation Menu"
-msgstr "Menu de Navegação Primária"
+msgstr "Основно навигационно меню"
 
 #: lib/init.php:44
 msgid "Secondary Navigation Menu"
-msgstr "Menu de Navegação Secundária"
+msgstr "Помощно Навигационно Меню"
 
 #: lib/admin/import-export.php:45
 msgid "Genesis - Import/Export"
-msgstr "Genesis - Importação / Exportação"
+msgstr "Генезис -  - Импорт / Експорт"
 
 #: lib/admin/import-export.php:46
 msgid "Import/Export"
-msgstr "Importar/Exportar"
+msgstr "Импорт / Експорт"
 
 #: lib/admin/import-export.php:81
 msgid "Import Genesis Settings File"
-msgstr "Importar configurações do Genesis"
+msgstr "Внос Генезис Настройки на файла"
 
 #: lib/admin/import-export.php:83
 msgid "Upload the data file (<code>.json</code>) from your computer and we'll import your settings."
-msgstr "Envie o arquivo de dados (<code>. json</code>) a partir do seu computador e nós importamos as configurações."
+msgstr "Качване на файл с данни (<code>.json</code>) от вашия компютър, и ние ще импортирате настройките."
 
 #: lib/admin/import-export.php:84
 msgid "Choose the file from your computer and click \"Upload file and Import\""
-msgstr "Escolha o arquivo do seu computador e clique em \"Enviar arquivo e Importar\""
+msgstr "Изберете файла от вашия компютър и щракнете върху  \"Качи файл и внос \""
 
 #: lib/admin/import-export.php:89
 msgid "Upload File: (Maximum Size: %s)"
-msgstr "Upload de arquivo: (Tamanho máximo: %s)"
+msgstr "Качи файл: (максимален размер: %s)"
 
 #: lib/admin/import-export.php:92
 msgid "Upload File and Import"
-msgstr "Enviar arquivo e importar"
+msgstr "Качи файл и внос"
 
 #: lib/admin/import-export.php:100
 msgid "Export Genesis Settings File"
-msgstr "Exportar configurações do Genesis"
+msgstr "Генезис Настройки на експорта на файла"
 
 #: lib/admin/import-export.php:102
 msgid "When you click the button below, Genesis will generate a data file (<code>.json</code>) for you to save to your computer."
-msgstr "Ao clicar no botão abaixo, o Genesis irá gerar um arquivo de dados (<code>.json</code>) para você salvar em seu computador."
+msgstr "Когато щракнете върху бутона по-долу, Генезис ще генерира файл с данни (<code>.json</code>) за да можете да запишете на вашия компютър."
 
 #: lib/admin/import-export.php:103
 msgid "Once you have saved the download file, you can use the import function on another site to import this data."
-msgstr "Depois de ter salvo o arquivo de download, você pode usar a função de importação em outro site para importar esses dados."
+msgstr "След като сте записали изтегления файл, можете да използвате функцията за внос на друго място, за да импортирате тези данни."
 
 #: lib/admin/import-export.php:110
 msgid "Download Export File"
-msgstr "Download do Arquivo de Exportação"
+msgstr "Изтеглете документация по износа"
 
 #: lib/admin/import-export.php:142
 msgid "Settings successfully imported."
-msgstr "Configurações importadas com sucesso."
+msgstr "Настройките са внесени успешно."
 
 #: lib/admin/import-export.php:144
 msgid "There was a problem importing your settings. Please try again."
-msgstr "Houve um problema ao importar as configurações. Por favor, tente novamente."
+msgstr "Имаше проблем при импортирането на вашите настройки. Моля, опитайте отново."
 
 #: lib/admin/import-export.php:162
 msgid "Theme Settings"
-msgstr "Configurações do Tema"
+msgstr "Тема настройки"
 
 #: lib/admin/import-export.php:166
 msgid "SEO Settings"
-msgstr "Configurações SEO"
+msgstr "SEO Настройки"
 
 #: lib/admin/import-export.php:188
 msgid "No export options available."
-msgstr "Não há opções de exportação disponíveis."
+msgstr "Няма налични възможности за износ."
 
 #: lib/admin/inpost-metaboxes.php:33 lib/admin/term-meta.php:119
 #: lib/admin/user-meta.php:153
 msgid "Theme SEO Settings"
-msgstr "Configurações SEO do Tema"
+msgstr "Тема SEO Настройки"
 
 #: lib/admin/inpost-metaboxes.php:54
 msgid "Custom Document Title"
-msgstr "Título personalizado do Documento"
+msgstr "Заглавие на документ по избор"
 
 #: lib/admin/inpost-metaboxes.php:54 lib/admin/inpost-metaboxes.php:57
 msgid "Characters Used: %s"
-msgstr "Caracteres utilizados: %s"
+msgstr "Знаците, използвани: %s"
 
 #: lib/admin/inpost-metaboxes.php:57
 msgid "Custom Post/Page Meta Description"
-msgstr "Meta Descrição Personalizada do Post/Página"
+msgstr "Персонална публикация / Страница с мета описание"
 
 #: lib/admin/inpost-metaboxes.php:60
 msgid "Custom Post/Page Meta Keywords, comma separated"
-msgstr "Meta Palavras-chave do Post/Página, separados por vírgulas"
+msgstr "Избор след / Page Мета ключови думи, разделени със запетая"
 
 #: lib/admin/inpost-metaboxes.php:63
 msgid "Custom Canonical URI"
-msgstr "URL Canônica Personalizada"
+msgstr "Персонализиран канонически URI"
 
 #: lib/admin/inpost-metaboxes.php:66
 msgid "Custom Redirect URI"
-msgstr "URL de Redirecionamento Personalizado"
+msgstr "Персонализирано пренасочване URI"
 
 #: lib/admin/inpost-metaboxes.php:71 lib/admin/seo-settings.php:175
 msgid "Robots Meta Settings"
-msgstr "Configurações de Meta para Robots"
+msgstr "Настройки на мета работи"
 
 #: lib/admin/inpost-metaboxes.php:75 lib/admin/inpost-metaboxes.php:78
 #: lib/admin/inpost-metaboxes.php:81
 msgid "Apply %s to this post/page"
-msgstr "Aplicar %s para este post/página"
+msgstr "Прилагане на% S за тази публикация / страница"
 
 #: lib/admin/inpost-metaboxes.php:86
 msgid "Custom Tracking/Conversion Code"
-msgstr "Código personalizado para Acompanhamento/Conversão"
+msgstr "Персонално проследяване / Конвертиране на кодове"
 
 #: lib/admin/inpost-metaboxes.php:186 lib/admin/term-meta.php:202
 #: lib/admin/user-meta.php:219
 msgid "Layout Settings"
-msgstr "Configurações de Layout"
+msgstr "Настройки на макета"
 
 #: lib/admin/inpost-metaboxes.php:210 lib/admin/term-meta.php:211
 #: lib/admin/user-meta.php:229
 msgid "Default Layout set in <a href=\"%s\">Theme Settings</a>"
-msgstr "O layout padrão é definido em <a href=\"%s\">Configurações do tema</a>"
+msgstr "По подразбиране, разположена в <a href=\"%s\">Theme Settings</a>"
 
 #: lib/admin/inpost-metaboxes.php:217
 msgid "Custom Body Class"
-msgstr "Classe Body personalizada"
+msgstr "Потребителски еталон"
 
 #: lib/admin/inpost-metaboxes.php:220
 msgid "Custom Post Class"
-msgstr "Classe Post personalizada"
+msgstr "Потребителски  публикации по класове"
 
 #: lib/admin/readme-menu.php:40 lib/admin/readme-menu.php:41
 msgid "README"
-msgstr "LEIA-ME"
+msgstr "Прочети ме"
 
 #: lib/admin/readme-menu.php:68
 msgid "The %s file was not found in the child theme, or it was empty."
-msgstr "O arquivo %s não foi encontrado no tema-filho ou está vazio"
+msgstr "%s файл не е намерен в тема, или беше празен."
 
 #: lib/admin/seo-settings.php:43
 msgid "Genesis - SEO Settings"
-msgstr "Genesis - Configurações SEO"
+msgstr "Генезис - SEO Настройки"
 
 #: lib/admin/seo-settings.php:50 lib/admin/theme-settings.php:64
 #: lib/classes/admin.php:104
 msgid "Save Settings"
-msgstr "Salvar Configurações"
+msgstr "Запазване на  настройките"
 
 #: lib/admin/seo-settings.php:51 lib/admin/theme-settings.php:65
 #: lib/classes/admin.php:105
 msgid "Reset Settings"
-msgstr "Redefinir Configurações"
+msgstr "Възстановяване на настройките"
 
 #: lib/admin/seo-settings.php:52 lib/admin/theme-settings.php:66
 #: lib/classes/admin.php:106
 msgid "Settings saved."
-msgstr "Configurações salvas."
+msgstr "Настройките са запазени."
 
 #: lib/admin/seo-settings.php:53 lib/admin/theme-settings.php:67
 #: lib/classes/admin.php:107
 msgid "Settings reset."
-msgstr "Configurações reiniciadas."
+msgstr "Настройките възстановени."
 
 #: lib/admin/seo-settings.php:54 lib/admin/theme-settings.php:68
 #: lib/classes/admin.php:108
 msgid "Error saving settings."
-msgstr "Erro ao salvar as configurações"
+msgstr "Грешка в запаметяване на настройките."
 
 #: lib/admin/seo-settings.php:172
 msgid "Doctitle Settings"
-msgstr "Configurações do título da página"
+msgstr "Doctitle настройки"
 
 #: lib/admin/seo-settings.php:173
 msgid "Homepage Settings"
-msgstr "Configurações da Página Inicial"
+msgstr "Настройки на началната страница"
 
 #: lib/admin/seo-settings.php:174
 msgid "Document Head Settings"
-msgstr "Configurações do cabeçalho do documento"
+msgstr "Настройки на head документи"
 
 #: lib/admin/seo-settings.php:176
 msgid "Archives Settings"
-msgstr "Configurações de Arquivos"
+msgstr "Архивни настройки"
 
 #: lib/admin/seo-settings.php:193
 msgid "The Document Title is the single most important SEO tag in your document source. It succinctly informs search engines of what information is contained in the document. The doctitle changes from page to page, but these options will help you control what it looks by default."
-msgstr "O título do documento é a tag SEO mais importante no código fonte do seu documento. Sucintamente informa aos motores de busca qual informação contém o documento. O título do documento muda de página pra página, mas estas opções vão ajudar você a controlar o que é visto por padrão."
+msgstr "Наименованието на документа, е най-важният SEO таг в документа източник. Той накратко информира търсачка за това каква информация се съдържа в документа. Doctitle промени от страница на страница, но тези опции ще ви помогнат да контролирате това, което виждане по подразбиране."
 
 #: lib/admin/seo-settings.php:195
 msgid "<b>By default</b>, the homepage doctitle will contain the site title, the single post and page doctitle will contain the post/page title, archive pages will contain the archive type, etc."
-msgstr "<b>Por padrão</b>, o título do documento da página principal conterá o título do site, a única postagem e página do título do documento conterá o título da postagem / página, páginas de arquivos conterão o tipo de arquivo, etc."
+msgstr "<b> По подразбиране </ b>, doctitle началната страница ще съдържа заглавието на сайта, една публикация и на страница doctitle ще съдържа мнения / заглавието на страницата, архивни страници ще съдържа архивен тип и др."
 
 #: lib/admin/seo-settings.php:199
 msgid "Append Site Description to Doctitle on homepage?"
-msgstr "Adicionar a descrição do site ao título do documento na homepage?"
+msgstr "Добавяне описание на сайта към Doctitle на началната страница?"
 
 #: lib/admin/seo-settings.php:204
 msgid "Append Site Name to Doctitle on inner pages?"
-msgstr "Adicionar o nome do site ao título do documento das páginas internas?"
+msgstr "Добавяне името на сайта към  Doctitle на вътрешните страници?"
 
 #: lib/admin/seo-settings.php:208
 msgid "Doctitle (%s) Append Location:"
-msgstr ""
+msgstr "Doctitle (%s) Добавяне на местоположение:"
 
 #: lib/admin/seo-settings.php:209
 msgid "Determines what side the appended doctitle text will go on."
-msgstr "Determina em qual lado estará o texto adicional para o título do documento."
+msgstr "Определя каква страна от приложения текст doctitle, ще продължи."
 
 #: lib/admin/seo-settings.php:213
 msgid "Left"
-msgstr "Esquerdo"
+msgstr "Наляво"
 
 #: lib/admin/seo-settings.php:216
 msgid "Right"
-msgstr "Direito"
+msgstr "Надясно"
 
 #: lib/admin/seo-settings.php:221
 msgid "Doctitle (<code>&lt;title&gt;</code>) Separator:"
-msgstr ""
+msgstr "Doctitle(<code>&lt;title&gt;</code>) сепаратор:"
 
 #: lib/admin/seo-settings.php:223
 msgid "If the doctitle consists of two parts (Title &amp; Appended Text), then the Doctitle Separator will go between them."
-msgstr "Se o título do documento for composto por duas partes (título e texto adicional), o separador estará entre eles."
+msgstr "Ако doctitle се състои от две части (Title &amp; Appended Text), тогава  Doctitle Separator ще отиде между тях."
 
 #: lib/admin/seo-settings.php:244
 msgid "Which text would you like to be wrapped in %s tags?"
-msgstr "Qual o texto que você gostaria de ser envolvido em %s tags?"
+msgstr "Кой текст бихте искали да бъде опакован в %s етикет?"
 
 #: lib/admin/seo-settings.php:245
 msgid "The %s tag is, arguably, the second most important SEO tag in the document source. Choose wisely."
-msgstr "A tag %s é, sem dúvida, a segunda mais importante tag SEO no código do documento. Escolha sabiamente."
+msgstr "Може да се каже, чe %s е вторият най-важен SEO таг в документа източник. Изберете го разумно."
 
 #: lib/admin/seo-settings.php:249
 msgid "Site Title"
-msgstr "Título do site"
+msgstr "Заглавие на сайта"
 
 #: lib/admin/seo-settings.php:252
 msgid "Site Description"
-msgstr "Descrição do Site"
+msgstr "Описание на обекта"
 
 #: lib/admin/seo-settings.php:255
 msgid "Neither. I'll manually wrap my own text on the homepage"
-msgstr "Nenhum dos dois. Vou manualmente colocar meu próprio texto na página inicial"
+msgstr "Нито единият. Аз ще приключа ръчно моят собствен текст на началната страница."
 
 #: lib/admin/seo-settings.php:259
 msgid "Home Doctitle:"
-msgstr ""
+msgstr "Начало Doctitle:"
 
 #: lib/admin/seo-settings.php:261
 msgid "If you leave the doctitle field blank, your site&rsquo;s title will be used instead."
-msgstr "Se deixar o campo título do documento em branco, o título do site será utilizado."
+msgstr "Ако оставите  празно полето doctitle, вашият site&rsquo;s  заглавието ще се използва вместо него."
 
 #: lib/admin/seo-settings.php:265
 msgid "Home META Description:"
-msgstr "Descrição META da Home"
+msgstr "Начало на мета описание."
 
 #: lib/admin/seo-settings.php:267
 msgid "The META Description can be used to determine the text used under the title on search engine results pages."
-msgstr "A META descrição pode ser utilizada para determinar o texto usado abaixo do título nas páginas de resultados dos mecanismos de busca."
+msgstr "Мета описанието може да се използва за определяне на текст, използван под заглавие на резултатите на страниците  търсачки."
 
 #: lib/admin/seo-settings.php:271
 msgid "Home META Keywords (comma separated):"
-msgstr "Palavras-chaves META da Home(separados por vírgula):"
+msgstr "Начало на МЕТА ключови думи (разделени със запетая):"
 
 #: lib/admin/seo-settings.php:273
 msgid "Keywords are generally ignored by Search Engines."
-msgstr "As palavras-chave geralmente são ignoradas pelos mecanismos de busca."
+msgstr "Ключовите думи обикновено са игнорирани от търсачките."
 
 #: lib/admin/seo-settings.php:276
 msgid "Homepage Robots Meta Tags:"
-msgstr "Meta Tag Robots da Homepage:"
+msgstr "Начална страница Robots Meta Tags:"
 
 #: lib/admin/seo-settings.php:280 lib/admin/seo-settings.php:283
 #: lib/admin/seo-settings.php:286
 msgid "Apply %s to the homepage?"
-msgstr "Aplicar %s na página inicial?"
+msgstr "Прилагане на %s  към началната страница?"
 
 #: lib/admin/seo-settings.php:305
 msgid "By default, WordPress places several tags in your document %1$s. Most of these tags are completely unnecessary, and provide no SEO value whatsoever. They just make your site slower to load. Choose which tags you would like included in your document %1$s. If you do not know what something is, leave it unchecked."
-msgstr "Por padrão, o WordPress coloca diversas tags em seu documento %1$s. A maioria dessas tags são completamente desnecessárias, e não fornece um valor de SEO que seja. Eles apenas deixam o seu site lento para carregar. Escolha quais as marcas que gostaria de incluir em seu documento %1$s. Se você não sabe alguma coisa, deixe a desmarcada."
+msgstr "По подразбиране, WordPress поставя няколко тагове в документа ви %1$s. Повечето от тези маркери са напълно ненужни, и не предоставят каквато и да е стойност. Те просто правят вашия уеб сайт по-бавен. Изберете кои тагове, можете да включите в документа ви %1$s. Ако не знаете какво е това го оставете непокътнато."
 
 #: lib/admin/seo-settings.php:307
 msgid "Relationship Link Tags:"
-msgstr "Relacionamento de Link Tags:"
+msgstr "Връзка на линкове:"
 
 #: lib/admin/seo-settings.php:311
 msgid "Adjacent Posts %s link tags"
-msgstr ""
+msgstr "Прилежащите публикации %s линк тагове"
 
 #: lib/admin/seo-settings.php:314
 msgid "Windows Live Writer Support:"
-msgstr "Suporte ao Windows Live Writer:"
+msgstr "Windows Live Writer Support:"
 
 #: lib/admin/seo-settings.php:318
 msgid "Include Windows Live Writer Support Tag?"
-msgstr "Incluir Windows Live Writer Tag Support?"
+msgstr "Включете Windows Live таг поддръжката на записващите устройства?"
 
 #: lib/admin/seo-settings.php:321
 msgid "Shortlink Tag:"
-msgstr "Tag com link curto:"
+msgstr "Кратък Линк Етикет:"
 
 #: lib/admin/seo-settings.php:325
 msgid "Include Shortlink tag?"
-msgstr "Incluir tag com link curto?"
+msgstr "Включва кратките линк тагове ?"
 
 #: lib/admin/seo-settings.php:326
 msgid "The shortlink tag might have some use for 3rd party service discoverability, but it has no SEO value whatsoever."
-msgstr "O link curto da tag pode ter alguma utilização para serviço de  indexação de terceiro partido, mas ele não tem valor SEO qualquer que seja."
+msgstr "Кратка връзка може да има известна употреба за 3-то парти откриваемост, но то няма никаква стойност SEO каквато."
 
 #: lib/admin/seo-settings.php:348
 msgid "Depending on your situation, you may or may not want the following archive pages to be indexed by search engines. Only you can make that determination."
-msgstr "Dependendo da sua situação, você pode ou não desejar que as páginas do arquivo seguinte sejam indexadas pelos motores de busca. Somente você pode fazer essa determinação."
+msgstr "В зависимост от ситуацията, вие може или не може да искате следните архив да бъде индексиран от търсачките. Само вие може да направи тази преценка."
 
 #: lib/admin/seo-settings.php:352 lib/admin/seo-settings.php:376
 msgid "Apply %s to Category Archives?"
-msgstr "Aplicar %s para Arquivos da categoria?"
+msgstr "Прилагане на %s категория архиви?"
 
 #: lib/admin/seo-settings.php:355 lib/admin/seo-settings.php:379
 msgid "Apply %s to Tag Archives?"
-msgstr "Aplicar %s para Arquivos Tag?"
+msgstr "Прилагане на %s  към tag Архив?"
 
 #: lib/admin/seo-settings.php:358 lib/admin/seo-settings.php:382
 msgid "Apply %s to Author Archives?"
-msgstr "Aplicar %s para Arquivos Autor?"
+msgstr "Приложете %s към авторските архиви?"
 
 #: lib/admin/seo-settings.php:361 lib/admin/seo-settings.php:385
 msgid "Apply %s to Date Archives?"
-msgstr "Aplicar %s para Data de Arquivos?"
+msgstr "Приложете%s към дата архивите?"
 
 #: lib/admin/seo-settings.php:364 lib/admin/seo-settings.php:388
 msgid "Apply %s to Search Archives?"
-msgstr "Aplicar %s para Pesquisa de Arquivos?"
+msgstr "Прилагане на %s към  архива за търсене?"
 
 #: lib/admin/seo-settings.php:367
 msgid "Some search engines will cache pages in your site (e.g Google Cache). The %1$s tag will prevent them from doing so. Choose what archives you want to %1$s."
-msgstr "Alguns motores de busca irão armazenar páginas cache em seu site (por exemplo, Cache do Google). A tag %1$s irá impedi-lo de fazê-lo. Escolha quais arquivos você quer para %1$s."
+msgstr "Някои търсачки ще кешират страниците в сайта ви (напр. Google Cache). Маркирания таг %1$s ще им пречи да го правят. Изберете този архив, който искате %1$s."
 
 #: lib/admin/seo-settings.php:371
 msgid "Apply %s to Entire Site?"
-msgstr "Aplicar %s para o Site Inteiro?"
+msgstr "Прилага се %s към целия сайт?"
 
 #: lib/admin/seo-settings.php:391
 msgid "Occasionally, search engines use resources like the Open Directory Project and the Yahoo! Directory to find titles and descriptions for your content. Generally, you will not want them to do this. The %s and %s tags prevent them from doing so."
-msgstr "Às vezes, os motores de busca utilizam fontes como o Open Directory Project (ODP) e o Diretório do Yahoo! para encontrar títulos e descrições para o seu conteúdo. Normalmente, você não vai querer isso. As tags %s e %s impedem que isso aconteça."
+msgstr "Понякога търсачките използват ресурси като проект с отворена директория и директория Yahoo! Директории, за  намериени заглавия и описания за вашето съдържание. Като цяло вие няма да искате те да правят това. %s and %s таговете им пречат да го прави."
 
 #: lib/admin/seo-settings.php:395 lib/admin/seo-settings.php:398
 msgid "Apply %s to your site?"
-msgstr "Aplicar %s para o seu site?"
+msgstr "Прилагане на %s  към вашия сайт?"
 
 #: lib/admin/seo-settings.php:419
 msgid "Canonical Paginated Archives"
-msgstr "Arquivos Canônicos Paginados"
+msgstr "Канонически архиви на номерирани страници"
 
 #: lib/admin/seo-settings.php:420
 msgid "This option points search engines to the first page of an archive, if viewing a paginated page. If you do not know what this means, leave it on."
-msgstr "Esta opção aponta motores de busca para a primeira página de um arquivo, se visualizar uma página paginada. Se você não sabe o que isto significa, deixe-a."
+msgstr "Тази опция посочва търсачка на първата страница на архива ако разглеждате номерована  страница. Ако не знаете какво означава това, оставете го."
 
 #: lib/admin/term-meta.php:55
 msgid "Archive Settings"
-msgstr "Arquivar Configurações"
+msgstr "Архив на настройки"
 
 #: lib/admin/term-meta.php:59
 msgid "Archive Headline"
-msgstr "Arquivar Título"
+msgstr "Архив на заглавие"
 
 #: lib/admin/term-meta.php:62
 msgid "Leave empty if you do not want to display a headline."
-msgstr "Deixe em branco se não quiser mostrar um título"
+msgstr "Оставете празно, ако не искате да покажете заглавието."
 
 #: lib/admin/term-meta.php:66
 msgid "Archive Intro Text"
-msgstr "Arquivar Texto de Introdução"
+msgstr "Архив на въведения текст"
 
 #: lib/admin/term-meta.php:69
 msgid "Leave empty if you do not want to display any intro text."
-msgstr "Deixe em branco se não quiser mostrar um texto de introdução."
+msgstr "Оставете празно, ако не искате да покажете някой въведен текст."
 
 #: lib/admin/term-meta.php:123 lib/admin/user-meta.php:158
 msgid "Custom Document %s"
-msgstr "Documento Personalizado %s"
+msgstr "Избор на документа %s"
 
 #: lib/admin/term-meta.php:130 lib/admin/user-meta.php:165
 msgid "%s Description"
-msgstr "%s Descrição"
+msgstr "%s Описание"
 
 #: lib/admin/term-meta.php:137 lib/admin/user-meta.php:172
 msgid "%s Keywords"
-msgstr "%s Palavras-chave"
+msgstr "%s Ключови думи"
 
 #: lib/admin/term-meta.php:140 lib/admin/user-meta.php:175
 msgid "Comma separated list"
-msgstr "Lista separada por vírgulas"
+msgstr "Разделени със запетая"
 
 #: lib/admin/term-meta.php:145 lib/admin/user-meta.php:180
 msgid "Robots Meta"
@@ -444,605 +444,605 @@ msgstr "Robots Meta"
 #: lib/admin/term-meta.php:152 lib/admin/user-meta.php:183
 #: lib/admin/user-meta.php:185 lib/admin/user-meta.php:187
 msgid "Apply %s to this archive?"
-msgstr "Aplicar %s para este arquivo?"
+msgstr "Прилагане на %s  към този архив?"
 
 #: lib/admin/term-meta.php:206 lib/admin/user-meta.php:224
 msgid "Choose Layout"
-msgstr "Escolher layout"
+msgstr "Изберете оформление"
 
 #: lib/admin/theme-settings.php:85
 msgid "Follow me on Twitter"
-msgstr "Siga-me no Twitter"
+msgstr "Последвайте ме в Twitter"
 
 #: lib/admin/theme-settings.php:204
 msgid "Information"
-msgstr "Informação"
+msgstr "Информация"
 
 #: lib/admin/theme-settings.php:207
 msgid "Color Style"
-msgstr ""
+msgstr "Стил на цвят"
 
 #: lib/admin/theme-settings.php:209
 msgid "Custom Feeds"
-msgstr "Feeds Personalizados"
+msgstr "Потребителски канали"
 
 #: lib/admin/theme-settings.php:210
 msgid "Default Layout"
-msgstr "Layout padrão"
+msgstr "Оформление по подразбиране"
 
 #: lib/admin/theme-settings.php:213
 msgid "Header Settings"
-msgstr "Configurações do cabeçalho"
+msgstr "Препоръчителни настройки"
 
 #: lib/admin/theme-settings.php:216
 msgid "Navigation Settings"
-msgstr "Configurações da navegação"
+msgstr "Настройките за навигация"
 
 #: lib/admin/theme-settings.php:218
 msgid "Breadcrumbs"
-msgstr "Breadcrumbs"
+msgstr "Навигационните пътища"
 
 #: lib/admin/theme-settings.php:219
 msgid "Comments and Trackbacks"
-msgstr "Comentários e Trackbacks"
+msgstr "Коментари и проследявания"
 
 #: lib/admin/theme-settings.php:220
 msgid "Content Archives"
-msgstr "Arquivos de conteúdo"
+msgstr "Съдържание на архив"
 
 #: lib/admin/theme-settings.php:221
 msgid "Blog Page"
-msgstr "Pagina de Blog"
+msgstr "Блог страница"
 
 #: lib/admin/theme-settings.php:224
 msgid "Header and Footer Scripts"
-msgstr "Scripts do cabeçalho e rodapé"
+msgstr "Горен и долен колонтитул на скриптове"
 
 #: lib/admin/theme-settings.php:265
 msgid "Version:"
-msgstr "Versão:"
+msgstr "Версия:"
 
 #: lib/admin/theme-settings.php:265
 msgid "Released:"
-msgstr "Lançado em:"
+msgstr "Издаден:"
 
 #: lib/admin/theme-settings.php:269
 msgid "Display Theme Information in your document source"
-msgstr "Exibir informações do tema no código fonte do documento"
+msgstr "Показване на информационна тема в документа източник"
 
 #: lib/admin/theme-settings.php:272
 msgid "This can be helpful for diagnosing problems with your theme when seeking assistance in the <a href=\"%s\" target=\"_blank\">support forums</a>."
-msgstr "Isto pode ser útil para diagnosticar problemas com o seu tema na busca de assistência no <a href=\"%s\" target=\"_blank\">support forums</a>."
+msgstr "Това може да бъде полезно за диагностициране на проблеми с вашата тема, когато се търси помощ в <a href=\"%s\" target=\"_blank\">support forums</a>."
 
 #: lib/admin/theme-settings.php:276
 msgid "Enable Automatic Updates"
-msgstr "Habilitar atualizações automáticas"
+msgstr "Разрешаване на автоматична актуализация"
 
 #: lib/admin/theme-settings.php:281
 msgid "Notify"
-msgstr "Notificar"
+msgstr "Известия"
 
 #: lib/admin/theme-settings.php:283
 msgid "when updates are available"
-msgstr "quando houver atualizações disponíveis"
+msgstr "Когато актуализациите  са достъпни"
 
 #: lib/admin/theme-settings.php:286
 msgid "If you provide an email address above, your blog can email you when a new version of Genesis is available."
-msgstr "Se você fornecer um endereço de e-mail acima, seu blog pode enviar e-mail quando uma nova versão do Genesis estiver disponível."
+msgstr "Ако предоставите имейл адрес по-горе, блогът ви може да ви изпрати имейл, когато има нова версия на Genesis и е на разположение."
 
 #: lib/admin/theme-settings.php:308
 msgid "Color Style:"
-msgstr ""
+msgstr "Стил цвят:"
 
 #: lib/admin/theme-settings.php:310
 msgid "Default"
-msgstr "Padrão"
+msgstr "По подразбиране"
 
 #: lib/admin/theme-settings.php:322
 msgid "Please select the color style from the drop down list and save your settings."
-msgstr ""
+msgstr "Моля изберете стил на цвета от падащия списък и запазете настройките си."
 
 #: lib/admin/theme-settings.php:368
 msgid "Use for blog title/logo:"
-msgstr "Utilize título/logotipo no blog"
+msgstr "Използвайте за блога заглавие / лого:"
 
 #: lib/admin/theme-settings.php:370
 msgid "Dynamic text"
-msgstr "Texto dinâmico"
+msgstr "Динамичен текст"
 
 #: lib/admin/theme-settings.php:371
 msgid "Image logo"
-msgstr "Logotipo em imagem"
+msgstr "Изображение на логото"
 
 #: lib/admin/theme-settings.php:396
 msgid "Primary Navigation"
-msgstr "Navegação primária"
+msgstr "Основна навигация"
 
 #: lib/admin/theme-settings.php:400
 msgid "Include Primary Navigation Menu?"
-msgstr "Incluir o menu de navegação primário?"
+msgstr "Включва главно навигационно меню?"
 
 #: lib/admin/theme-settings.php:406 lib/admin/theme-settings.php:451
 msgid "Enable Fancy Dropdowns?"
-msgstr "Habilitar Fancy Dropdowns?"
+msgstr "Активиране  на въображаеми падащи менюта?"
 
 #: lib/admin/theme-settings.php:411
 msgid "Enable Extras on Right Side?"
-msgstr "Habilitar 'extras' na lateral direita?"
+msgstr "Разрешаване на екстрата от дясната страна?"
 
 #: lib/admin/theme-settings.php:416
 msgid "Display the following:"
-msgstr "Exibir:"
+msgstr "Показване на следното:"
 
 #: lib/admin/theme-settings.php:418
 msgid "Today's date"
-msgstr "Data de hoje"
+msgstr "Днешната дата"
 
 #: lib/admin/theme-settings.php:419
 msgid "RSS feed links"
-msgstr "Links dos feeds RSS"
+msgstr "RSS емисия връзки"
 
 #: lib/admin/theme-settings.php:420
 msgid "Search form"
-msgstr "Formulário de busca"
+msgstr "форма за търсене"
 
 #: lib/admin/theme-settings.php:421
 msgid "Twitter link"
-msgstr "Link do Twitter"
+msgstr "Twitter връзка"
 
 #: lib/admin/theme-settings.php:426
 msgid "Enter Twitter ID:"
-msgstr "Informe o ID do Twitter:"
+msgstr "Въведете Twitter ID:"
 
 #: lib/admin/theme-settings.php:430
 msgid "Twitter Link Text:"
-msgstr "Texto para o link do Twitter:"
+msgstr "Twitter текст за връзка:"
 
 #: lib/admin/theme-settings.php:441
 msgid "Secondary Navigation"
-msgstr "Navegação Secundária"
+msgstr "Помощна навигация"
 
 #: lib/admin/theme-settings.php:445
 msgid "Include Secondary Navigation Menu?"
-msgstr "Incluir o menu de navegação secundário?"
+msgstr "Да включват вторични менюто за навигация?"
 
 #: lib/admin/theme-settings.php:458
 msgid "In order to use the navigation menus, you must build a <a href=\"%s\">custom menu</a>, then assign it to the proper Menu Location."
-msgstr "A fim de usar os menus de navegação, você deve construir um <a href=\"%s\">custom menu</a>, em seguida, atribuí-lo ao Menu de Localização apropriada."
+msgstr "За да използвате навигационните менюта, трябва да се се изгради <a href=\"%s\"> потребителско меню </a>, а след това да го зададете  на правилното място на менюто."
 
 #: lib/admin/theme-settings.php:477
 msgid "Enter your custom feed URI:"
-msgstr "URL personalizada para o Feed:"
+msgstr "Въведете вашия потребителски URI поддръжка:"
 
 #: lib/admin/theme-settings.php:481 lib/admin/theme-settings.php:489
 msgid "Redirect Feed?"
-msgstr "Redirecionar o Feed?"
+msgstr "Пренасочване на потокът?"
 
 #: lib/admin/theme-settings.php:485
 msgid "Enter your custom comments feed URI:"
-msgstr "URL personalizada para o Feed de comentários:"
+msgstr "Въведете вашия потребителски коментар за   URI поддръжка:"
 
 #: lib/admin/theme-settings.php:492
 msgid "If your custom feed(s) are not handled by Feedburner, we do not recommend that you use the redirect options."
-msgstr "Se o seu feed personalizado (s) não são tratados pelo Feedburner, não recomendamos que você use as opções de redirecionamento."
+msgstr "Ако вашият Потребителска поддръжка не са обработва от Feedburner, ние не препоръчваме да използвате опциите на пренасочване."
 
 #: lib/admin/theme-settings.php:511
 msgid "Enable Comments"
-msgstr "Habilitar comentários"
+msgstr "Активиране на коментарите"
 
 #: lib/admin/theme-settings.php:513 lib/admin/theme-settings.php:522
 msgid "on posts?"
-msgstr "nos posts?"
+msgstr "на публикации?"
 
 #: lib/admin/theme-settings.php:516 lib/admin/theme-settings.php:525
 msgid "on pages?"
-msgstr "nas páginas?"
+msgstr "на страници?"
 
 #: lib/admin/theme-settings.php:520
 msgid "Enable Trackbacks"
-msgstr "Habilitar trackbacks"
+msgstr "Разрешаване на проследявания"
 
 #: lib/admin/theme-settings.php:528
 msgid "Comments and Trackbacks can also be disabled on a per post/page basis when creating/editing posts/pages."
-msgstr "Comentários e Trackbacks também podem ser desabilitados em uma base de postagem/por página durante a criação /edição de postagens/páginas."
+msgstr "Коментарите и проследяванията могат да бъдат прекратени за всяка публикация /  основна страница  при създаване / редактиране на публикации / страници."
 
 #: lib/admin/theme-settings.php:546
 msgid "Enable on:"
-msgstr "Habilitar em:"
+msgstr "Възможност за:"
 
 #: lib/admin/theme-settings.php:549
 msgid "Front Page"
-msgstr "Página inicial"
+msgstr "Заглавна страница"
 
 #: lib/admin/theme-settings.php:552
 msgid "Posts"
-msgstr "Posts"
+msgstr "Публикации"
 
 #: lib/admin/theme-settings.php:555
 msgid "Pages"
-msgstr "Páginas"
+msgstr "Страници"
 
 #: lib/admin/theme-settings.php:558
 msgid "Archives"
-msgstr "Arquivos"
+msgstr "Архиви"
 
 #: lib/admin/theme-settings.php:561
 msgid "404 Page"
-msgstr "Página 404"
+msgstr "404 страница"
 
 #: lib/admin/theme-settings.php:564
 msgid "Attachment Page"
-msgstr ""
+msgstr "Прикачена страница"
 
 #: lib/admin/theme-settings.php:567
 msgid "Breadcrumbs are a great way of letting your visitors find out where they are on your site with just a glance. You can enable/disable them on certain areas of your site."
-msgstr "Breadcrumbs são uma ótima maneira de deixar seus visitantes descobrirem onde eles estão no seu site com apenas um olhar. Você pode ativar / desativá-los em certas áreas do seu site."
+msgstr "Навигационните пътища са чудесен начин за отдаването на посетителите ви   да разберат, къде се намират в твоя сайт  само с един поглед. Можете да ги включите / изключите  на определени области във вашия сайт."
 
 #: lib/admin/theme-settings.php:587
 msgid "Select one of the following:"
-msgstr "Selecione uma das seguintes opções:"
+msgstr "Изберете едно от следните неща:"
 
 #: lib/admin/theme-settings.php:593
 msgid "Display post content"
-msgstr "Exibir o conteúdo dos posts"
+msgstr "Покажи съдържанието на публикацията."
 
 #: lib/admin/theme-settings.php:594
 msgid "Display post excerpts"
-msgstr "Exibir o resumo dos posts"
+msgstr "Покажи откъси от публикацията"
 
 #: lib/admin/theme-settings.php:605
 msgid "Limit content to"
-msgstr "Limitar o conteúdo a"
+msgstr "Лимит на съдържанието"
 
 #: lib/admin/theme-settings.php:607
 msgid "characters"
-msgstr "caracteres"
+msgstr "Символи"
 
 #: lib/admin/theme-settings.php:610
 msgid "Using this option will limit the text and strip all formatting from the text displayed. To use this option, choose \"Display post content\" in the select box above."
-msgstr "Usando esta opção irá limitar o texto e tirar toda a formatação do texto exibido. Para usar essa opção, escolha \"Mostrar conteúdo postado\" na caixa de seleção acima."
+msgstr "Използването на тази опция ще ограничи текста и ще  лиши цялото форматиране от показания текст. За да използвате тази опция, изберете  \"Display post content\"  в селектираното поле  по-горе."
 
 #: lib/admin/theme-settings.php:615
 msgid "Include the Featured Image?"
-msgstr "Incluir a imagem destacada?"
+msgstr "Включване на избраното  изображение?"
 
 #: lib/admin/theme-settings.php:619
 msgid "Image Size:"
-msgstr ""
+msgstr "Размер на снимката:"
 
 #: lib/admin/theme-settings.php:630
 msgid "Select Post Navigation Technique:"
-msgstr "Selecione a técnica de navegação dos posts:"
+msgstr "Селектирайте публикуваната навигационна техника:"
 
 #: lib/admin/theme-settings.php:632
 msgid "Older / Newer"
-msgstr "Antigo / Novo"
+msgstr "По-стари / нови"
 
 #: lib/admin/theme-settings.php:633
 msgid "Previous / Next"
-msgstr "Anterior / Próximo"
+msgstr "Назад / Напред"
 
 #: lib/admin/theme-settings.php:634
 msgid "Numeric"
-msgstr "Numérico"
+msgstr "цифров"
 
 #: lib/admin/theme-settings.php:638
 msgid "These options will affect any blog listings page, including archive, author, blog, category, search, and tag pages."
-msgstr "Estas opções afetarão quaisquer páginas de listagens do blog, incluindo arquivo, autor, blog, categoria, pesquisa e páginas de tag."
+msgstr "Тези опции ще се отразят на всеки блог, обявени страници,включително архив, автор, блог, категория, търсене и таг страници."
 
 #: lib/admin/theme-settings.php:657
 msgid "Display which category:"
-msgstr "Mostrar qual a categoria:"
+msgstr "Показва коя категория:"
 
 #: lib/admin/theme-settings.php:658
 msgid "All Categories"
-msgstr "Todas as categorias"
+msgstr "Всички категории"
 
 #: lib/admin/theme-settings.php:662
 msgid "Exclude the following Category IDs:"
-msgstr "Excluir sd seguintes Categorias (ID):"
+msgstr "Изключете следните ID категории:"
 
 #: lib/admin/theme-settings.php:664
 msgid "Comma separated - 1,2,3 for example"
-msgstr "Separado por vírgulas - 1,2,3 por exemplo"
+msgstr "Разделен със запетая - 1,2,3 например"
 
 #: lib/admin/theme-settings.php:669
 msgid "Number of Posts to Show:"
-msgstr ""
+msgstr "Показване на номера на публикации:"
 
 #: lib/admin/theme-settings.php:690 lib/admin/theme-settings.php:700
 msgid "Enter scripts or code you would like output to %s:"
-msgstr ""
+msgstr "Въведете скриптове или кодът, който бихте искали извън  %s:"
 
 #: lib/admin/theme-settings.php:695 lib/admin/theme-settings.php:705
 msgid "The %1$s hook executes immediately before the closing %2$s tag in the document source."
-msgstr ""
+msgstr " %1$s куката се изпълнява непосредствено преди затварянето%2$s  етикет в документа източник."
 
 #: lib/admin/user-meta.php:40
 msgid "User Permissions"
-msgstr ""
+msgstr "Потребителски разрешения"
 
 #: lib/admin/user-meta.php:44
 msgid "Genesis Admin Menus"
-msgstr "Menus administrativos do Genesis"
+msgstr "Genesis администраторски менюта"
 
 #: lib/admin/user-meta.php:47
 msgid "Enable Genesis Admin Menu?"
-msgstr "Habilitar o menu administrativo do Genesis?"
+msgstr "Разрешаване на Генезис  Администраторски менюта?"
 
 #: lib/admin/user-meta.php:49
 msgid "Enable SEO Settings Submenu?"
-msgstr "Habilitar o sub-menu de configuração SEO?"
+msgstr "Активирайте SEO настройките на подменюто?"
 
 #: lib/admin/user-meta.php:51
 msgid "Enable Import/Export Submenu?"
-msgstr "Habilitar o sub-menu Importar/Exportar?"
+msgstr "Активирайте Импорт / Експорт подменюто?"
 
 #: lib/admin/user-meta.php:88
 msgid "Author Archive Settings"
-msgstr ""
+msgstr "Настройки на Авторски Архив"
 
 #: lib/admin/user-meta.php:89 lib/admin/user-meta.php:154
 #: lib/admin/user-meta.php:220
 msgid "These settings apply to this author's archive pages."
-msgstr "Essas configurações se aplicam às páginas do autor do arquivo."
+msgstr "Тези настройки важат за тези авторски архивни страници."
 
 #: lib/admin/user-meta.php:93
 msgid "Custom Archive Headline"
-msgstr "Arquivo de títulos personalizados"
+msgstr "Потребителско Архивно Заглавие"
 
 #: lib/admin/user-meta.php:96
 msgid "Will display in the %s tag at the top of the first page"
-msgstr "Será exibido na tag o%s no topo da primeira página"
+msgstr "Ще се показва в %s  таг в горната част на първата страница"
 
 #: lib/admin/user-meta.php:101
 msgid "Custom Description Text"
-msgstr "Descrição de Texto Personalizada"
+msgstr "Потребителско текстово описание"
 
 #: lib/admin/user-meta.php:104
 msgid "This text will be the first paragraph, and display on the first page"
-msgstr "Este texto será o primeiro parágrafo, e exibido na primeira página"
+msgstr "Този текст ще бъде първия параграф  и се показва на първа страница"
 
 #: lib/admin/user-meta.php:109
 msgid "Author Box"
-msgstr "Box do autor"
+msgstr "Автор кутия"
 
 #: lib/admin/user-meta.php:112
 msgid "Enable Author Box on this User's Posts?"
-msgstr "Habilitar o box do autor para os posts deste usuário?"
+msgstr "Активирайте авторската  кутия за мнения на този потребител?"
 
 #: lib/admin/user-meta.php:114
 msgid "Enable Author Box on this User's Archives?"
-msgstr "Habilitar o box do autor nos arquivos deste usuário?"
+msgstr "Активиране на авторската кутия на този потребителски архив?"
 
 #: lib/classes/admin.php:118
 msgid "You cannot use %s to create two menus in the same subclass. Please use separate subclasses for each menu."
-msgstr ""
+msgstr "Не можете да използвате %s за създаването на две менюта в същия подклас."
 
 #: lib/classes/admin.php:415 lib/classes/admin.php:424
 #: lib/classes/admin.php:527 lib/classes/admin.php:546
 msgid "Are you sure you want to reset?"
-msgstr "Tem certeza de que deseja redefinir?"
+msgstr "Сигурни ли сте че искате да възстановите?"
 
 #: lib/classes/breadcrumb.php:53
 msgid "Home"
-msgstr "Home"
+msgstr "начало"
 
 #: lib/classes/breadcrumb.php:62
 msgid "You are here: "
-msgstr "Você está aqui: "
+msgstr "Вие сте тук:"
 
 #: lib/classes/breadcrumb.php:63 lib/classes/breadcrumb.php:64
 #: lib/classes/breadcrumb.php:65 lib/classes/breadcrumb.php:66
 #: lib/classes/breadcrumb.php:68 lib/classes/breadcrumb.php:69
 msgid "Archives for "
-msgstr "Arquivos para"
+msgstr "Архив за:"
 
 #: lib/classes/breadcrumb.php:67
 msgid "Search for "
-msgstr "Pesquisar"
+msgstr "Търсене за:"
 
 #: lib/classes/breadcrumb.php:70
 msgid "Not found: "
-msgstr "Não localizado:"
+msgstr "Не е намерена:"
 
 #: lib/classes/breadcrumb.php:119 lib/classes/breadcrumb.php:214
 #: lib/classes/breadcrumb.php:315
 msgid "View %s"
-msgstr "Exibindo %s"
+msgstr "преглед %s"
 
 #: lib/classes/breadcrumb.php:247 lib/classes/breadcrumb.php:251
 #: lib/classes/breadcrumb.php:256
 msgid "(Edit)"
-msgstr "(Editar)"
+msgstr "(редактирам)"
 
 #: lib/classes/breadcrumb.php:264 lib/classes/breadcrumb.php:273
 msgid "View archives for %s"
-msgstr "Exibindo arquivos para %s"
+msgstr "Преглед на архивите %s"
 
 #: lib/classes/breadcrumb.php:279
 msgid "View archives for %s %s"
-msgstr "Exibindo arquivos para %s %s"
+msgstr "Преглед на архивите %s %s"
 
 #: lib/classes/breadcrumb.php:334
 msgid "View all posts in %s"
-msgstr "Ver todos os posts em %s"
+msgstr "Виж всички"
 
 #: lib/classes/breadcrumb.php:355
 msgid "View all %s"
-msgstr "Exibindo todos %s"
+msgstr "Виж всички"
 
 #: lib/classes/breadcrumb.php:418
 msgid "View all items in %s"
-msgstr "Exibindo todos os itens em %s"
+msgstr "Виж всички елементи"
 
 #: lib/functions/admin.php:15
 msgid "This file no longer needs to be included."
-msgstr ""
+msgstr "Този файл вече не се нуждае да бъде включен."
 
 #: lib/functions/formatting.php:291
 msgid "seconds"
-msgstr "segundos"
+msgstr "секунди"
 
 #: lib/functions/formatting.php:326
 msgid "and"
-msgstr "e"
+msgstr "и"
 
 #: lib/functions/layout.php:37
 msgid "Content-Sidebar"
-msgstr "Conteúdo-Sidebar"
+msgstr "Съдържание-Странична лента"
 
 #: lib/functions/layout.php:46
 msgid "Sidebar-Content"
-msgstr "Sidebar-Conteúdo"
+msgstr "Странична лента-Съдържание"
 
 #: lib/functions/layout.php:54
 msgid "Content-Sidebar-Sidebar"
-msgstr "Conteúdo-Sidebar-Sidebar"
+msgstr "Съдържание-Странична лента-Странична лента"
 
 #: lib/functions/layout.php:62
 msgid "Sidebar-Sidebar-Content"
-msgstr "Sidebar-Sidebar-Conteúdo"
+msgstr "Странична лента-Странична лента-Съдържание"
 
 #: lib/functions/layout.php:70
 msgid "Sidebar-Content-Sidebar"
-msgstr "Sidebar-Conteúdo-Sidebar"
+msgstr "Странична лента-Съдържание-Странична лента"
 
 #: lib/functions/layout.php:78
 msgid "Full Width Content"
-msgstr "Largura total de Conteúdo"
+msgstr "Пълна ширина на съдържанието"
 
 #: lib/functions/layout.php:122
 msgid "No Label Selected"
-msgstr "Nenhuma Etiqueta Selecionada"
+msgstr "Не е избран надпис"
 
 #: lib/functions/menu.php:74
 msgid "The argument, \"context\", has been replaced with \"theme_location\" in the $args array."
-msgstr ""
+msgstr "Аргументът, \"context\", е заменен с  \"theme_location \" в $args масив."
 
 #: lib/functions/seo.php:118
 msgid "Have you tried our Scribe SEO software? Do keyword research, content optimization, and link building without leaving WordPress. <b>Genesis owners save over 50&#37; using the promo code FIRST when you sign up</b>. <a href=\"%s\" target=\"_blank\">Click here for more info</a>."
-msgstr ""
+msgstr "Опитвали ли сте нашия Scribe SEO софтуер? Направете търсене на ключови думи, оптимизиране на съдържанието и изграждане на връзка без да се остава на WordPress.<b> Регистрираните потребители спестяват 50&#37; използвайки първо промоционалния код, когато се регистрират</b>.<a href=\"%s\" target=\"_blank\">Кликнете тук за повече информация</a>."
 
 #: lib/functions/seo.php:120
 msgid "Dismiss"
-msgstr ""
+msgstr "Отхвърляне"
 
 #: lib/functions/upgrade.php:376
 msgid "Congratulations! You are now rocking Genesis %s"
-msgstr "Parabéns! Você está executando o Genesis %s"
+msgstr "Поздравления!Вие сте регистриран %s"
 
 #: lib/functions/upgrade.php:401
 msgid "Click here to complete the upgrade"
-msgstr "Clique aqui para completar a atualização"
+msgstr "Щракнете тук за да завършите надгражданията"
 
 #: lib/functions/upgrade.php:426
 msgid "Genesis %s is available. <a href=\"%s\" class=\"thickbox thickbox-preview\">Check out what's new</a> or <a href=\"%s\" onclick=\"return genesis_confirm('%s');\">update now</a>."
-msgstr "Genesis %s está disponível. <a href=\"%s\" class=\"thickbox thickbox-preview\">Check out what's new</a> or <a href=\"%s\" onclick=\"return genesis_confirm('%s');\">update now</a>."
+msgstr "Генезис %s е на разположение. <a href=\"%s\" class=\"thickbox thickbox-preview\">Проверете какво ново има</a> or <a href=\"%s\" onclick=\"return genesis_confirm('%s');\">Актуализирай сега</a>."
 
 #: lib/functions/upgrade.php:430
 msgid "Upgrading Genesis will overwrite the current installed version of Genesis. Are you sure you want to upgrade?. \"Cancel\" to stop, \"OK\" to upgrade."
-msgstr "A atualização irá substituir a versão atual do Gênesis. Você tem certeza que deseja atualizar?. \"Cancelar\" para parar, \"OK\" para atualizar."
+msgstr "Обновяването на регистрацията ще замени сегашната инсталирана версия на регистрация. Сигурни  ли сте, че искате да надградите.  \"Отказ \" да се спре  \"OK \" за обновяване."
 
 #: lib/functions/upgrade.php:472
 msgid "Genesis %s is available for %s"
-msgstr "Genesis %s está disponível para %s"
+msgstr "Регистрацията % S е на разположение за% S"
 
 #: lib/functions/upgrade.php:473
 msgid "Genesis %s is now available. We have provided 1-click updates for this theme, so please log into your dashboard and update at your earliest convenience."
-msgstr "Genesis%s já está disponível. Nós fornecemos um clique de atualizações para este tema, por favor entre em seu painel e atualize o mais cedo possível."
+msgstr "Регистрацията % S е вече на разположение. Осигурили сме 1-клик актуализации за тази тема, така че, моля  влезте в таблото и актуализирайте при първа възможност."
 
 #: lib/functions/widgetize.php:63
 msgid "Header Left"
-msgstr ""
+msgstr "Заглавие отляво"
 
 #: lib/functions/widgetize.php:63
 msgid "Header Right"
-msgstr "Cabeçalho direito"
+msgstr "Заглавие отдясно"
 
 #: lib/functions/widgetize.php:64
 msgid "This is the widget area in the header."
-msgstr ""
+msgstr "Това е инсталираната област в заглавната част."
 
 #: lib/functions/widgetize.php:71
 msgid "Primary Sidebar"
-msgstr "Sidebar primária"
+msgstr "Основна странична лента"
 
 #: lib/functions/widgetize.php:72
 msgid "This is the primary sidebar if you are using a two or three column site layout option."
-msgstr ""
+msgstr "Това е основната страничната лента, ако използвате две или три колони от  опцията за оформлението на сайта."
 
 #: lib/functions/widgetize.php:79
 msgid "Secondary Sidebar"
-msgstr "Sidebar secundária"
+msgstr "Помощна странична лента"
 
 #: lib/functions/widgetize.php:80
 msgid "This is the secondary sidebar if you are using a three column site layout option."
-msgstr ""
+msgstr "Това е средната  странична лента ако използвате трите  колони за  оформлението на сайта."
 
 #: lib/functions/widgetize.php:112
 msgid "Footer %d"
-msgstr "Rodape %d"
+msgstr "Долен %d"
 
 #: lib/functions/widgetize.php:113
 msgid "Footer %d widget area."
-msgstr ""
+msgstr "Долна %d област на притурка."
 
 #: lib/js/load-scripts.php:86
 msgid "Select / Deselect All"
-msgstr "Marcar / Desmarcar tudo"
+msgstr "Избор / Премахнете отметките на всички"
 
 #: lib/shortcodes/footer.php:41
 msgid "Return to top of page"
-msgstr "Retornar ao topo da página"
+msgstr "Върни се назад към началната страница"
 
 #: lib/shortcodes/footer.php:176
 msgid "by "
-msgstr "por"
+msgstr "от"
 
 #: lib/shortcodes/footer.php:241
 msgid "Log in"
-msgstr "Login"
+msgstr "Вход"
 
 #: lib/shortcodes/footer.php:243
 msgid "Log out"
-msgstr "Desconectar"
+msgstr "Изход"
 
 #: lib/shortcodes/post.php:43
 msgid "ago"
-msgstr "atrás"
+msgstr "Преди"
 
 #: lib/shortcodes/post.php:140
 msgid "Visit %s&#8217;s website"
-msgstr "Visite o website do usuário%s"
+msgstr "Посетете уебсайта на %s&#8217;s"
 
 #: lib/shortcodes/post.php:205
 msgid "% Comments"
-msgstr "% Comentários"
+msgstr "% Коментари"
 
 #: lib/shortcodes/post.php:206
 msgid "1 Comment"
-msgstr "1 comentário"
+msgstr "коментар"
 
 #: lib/shortcodes/post.php:207
 msgid "Leave a Comment"
-msgstr "Deixe um comentário"
+msgstr "Оставете коментар"
 
 #: lib/shortcodes/post.php:247
 msgid "Tagged With: "
-msgstr "Marcados com:"
+msgstr "Маркирани с"
 
 #: lib/shortcodes/post.php:282 lib/shortcodes/post.php:320
 msgid "Filed Under: "
-msgstr "Arquivado em:"
+msgstr "Пила под"
 
 #: lib/structure/comments.php:56
 msgid "<h3>Comments</h3>"
-msgstr "<h3>Comentários</h3>"
+msgstr "<h3>Коментари</h3>"
 
 #: lib/structure/comments.php:107
 msgid "<h3>Trackbacks</h3>"
-msgstr "<h3>Trackbacks</h3>"
+msgstr "<h3>Проследявания</h3>"
 
 #: lib/structure/comments.php:176
 msgid "<cite class=\"fn\">%s</cite> <span class=\"says\">%s:</span>"
@@ -1050,131 +1050,131 @@ msgstr "<cite class=\"fn\">%s</cite> <span class=\"says\">%s:</span>"
 
 #: lib/structure/comments.php:176
 msgid "says"
-msgstr "diz"
+msgstr "казва"
 
 #: lib/structure/comments.php:180
 msgid "%1$s at %2$s"
-msgstr "%1$s em %2$s"
+msgstr "%1$s at %2$s"
 
 #: lib/structure/comments.php:181
 msgid "Edit"
-msgstr "Editar"
+msgstr "редактирам"
 
 #: lib/structure/comments.php:186
 msgid "Your comment is awaiting moderation."
-msgstr "Seu comentário está aguardando moderação."
+msgstr "Вашия коментар е в очакване на умереност."
 
 #: lib/structure/comments.php:243
 msgid "Name"
-msgstr "Nome"
+msgstr "име"
 
 #: lib/structure/comments.php:249
 msgid "Email"
-msgstr "Email"
+msgstr "имейл"
 
 #: lib/structure/comments.php:255
 msgid "Website"
-msgstr "Website"
+msgstr "уебсайт"
 
 #: lib/structure/comments.php:269
 msgid "Speak Your Mind"
-msgstr "Deixe seu comentário"
+msgstr "Изкажете мнението си"
 
 #: lib/structure/footer.php:111
 msgid "Copyright"
-msgstr "Copyright"
+msgstr "Авторско право"
 
 #: lib/structure/footer.php:111
 msgid "on"
-msgstr "em"
+msgstr "на"
 
 #: lib/structure/loops.php:191
 msgid "Read more&hellip;"
-msgstr "Ler mais&hellip;"
+msgstr "Прочетете повече&hellip;"
 
 #: lib/structure/loops.php:200
 msgid "You are using invalid arguments with the %s function."
-msgstr "Você está usando argumentos inválidos com a função %s."
+msgstr "Вие използвате невалидни аргументи  с %s функция."
 
 #: lib/structure/menu.php:175
 msgid "Comments"
-msgstr "Comentários"
+msgstr "Коментари"
 
 #: lib/structure/post.php:189 lib/structure/post.php:191
 msgid "[Read more...]"
-msgstr "[Ler mais ...]"
+msgstr "[Прочети повече...]"
 
 #: lib/structure/post.php:208
 msgid "Sorry, no posts matched your criteria."
-msgstr "Desculpe, nenhum post corresponde à sua pesquisa."
+msgstr "За съжаление няма публикации отговарящи на вашите критерии."
 
 #: lib/structure/post.php:234 lib/widgets/featured-post-widget.php:51
 msgid "By"
-msgstr "Por"
+msgstr "от"
 
 #: lib/structure/post.php:308
 msgid "About"
-msgstr "Sobre"
+msgstr "за"
 
 #: lib/structure/post.php:348
 msgid "Older Posts"
-msgstr "Postagens mais antigas"
+msgstr "стара публикации"
 
 #: lib/structure/post.php:349
 msgid "Newer Posts"
-msgstr "Postagens mais recentes"
+msgstr "нова публикации"
 
 #: lib/structure/post.php:370 lib/structure/post.php:434
 msgid "Previous Page"
-msgstr "Página anterior"
+msgstr "предишен страница"
 
 #: lib/structure/post.php:371 lib/structure/post.php:464
 msgid "Next Page"
-msgstr "Próxima página"
+msgstr "до страница"
 
 #: lib/structure/search.php:25
 msgid "Search this website %s"
-msgstr "Pesquisar no site %s"
+msgstr "Търсене в сайта %s"
 
 #: lib/structure/search.php:27
 msgid "Search"
-msgstr "Ok"
+msgstr "Търсене"
 
 #: lib/structure/sidebar.php:24
 msgid "Primary Sidebar Widget Area"
-msgstr "Área do Widget da Barra Lateral Principal"
+msgstr "Основна странична лента на инструмента за пространство"
 
 #: lib/structure/sidebar.php:27
 msgid "This is the Primary Sidebar Widget Area. You can add content to this area by visiting your <a href=\"%s\">Widgets Panel</a> and adding new widgets to this area."
-msgstr "Esta é a área de Widget da Barra Lateral Primária. Você pode adicionar conteúdo aqui, visitando o seu <a href=\"%s\">Painel de Widgets</a> e adicionar novos widgets para esta área."
+msgstr "Това е основната странична лента на инструмента за приспособяване.Можете да добавите съдържанието на тази област, като посетите вашия <a href=\"%s\"> използване на панел </a> и добавяне на нови приспособления в тази област."
 
 #: lib/structure/sidebar.php:45
 msgid "Secondary Sidebar Widget Area"
-msgstr "Área do Widget da Barra Lateral Secundária"
+msgstr "Помощна странична лента на инструмента за пространство."
 
 #: lib/structure/sidebar.php:48
 msgid "This is the Secondary Sidebar Widget Area. You can add content to this area by visiting your <a href=\"%s\">Widgets Panel</a> and adding new widgets to this area."
-msgstr "Esta é a área de Widget da Barra Lateral Secundária. Você pode adicionar conteúdo aqui, visitando o seu <a href=\"%s\">Painel de Widgets</a> e adicionar novos widgets para esta área."
+msgstr "Това е второстепенна област на страничната лента инструмент.Можете да добавите съдържанието на тази област, като посетите вашия <a href=\"%s\">Widgets Panel</a> и добавяне на нови инструменти към това пространство."
 
 #: lib/tools/post-templates.php:132
 msgid "Single Post Template"
-msgstr "Post Modelo Único"
+msgstr "Единичен шаблон публикация."
 
 #: lib/tools/post-templates.php:157
 msgid "Post Template"
-msgstr "Modelo de Postagem"
+msgstr "Публикукия на шаблон"
 
 #: lib/tools/post-templates.php:162
 msgid "Some themes have custom templates you can use for single posts that might have additional features or custom layouts. If so, you will see them above."
-msgstr "Alguns temas tem modelos personalizados que você pode usar para posts individuais que possam ter recursos adicionais ou layouts personalizados. Se assim for, você vai vê-los acima."
+msgstr "Някои теми имат собствени шаблони, които можете да използвате за единични мнения, които могат да имат допълнителни характеристики или персонализирани оформления. Ако е така, ще ги видите по-горе."
 
 #: lib/widgets/enews-widget.php:44
 msgid "Displays Feedburner email subscribe form"
-msgstr "Exibir o formulário do Feedburner para inscrição por email"
+msgstr "Показва Feedburner имейл абонаментна  форма"
 
 #: lib/widgets/enews-widget.php:47
 msgid "Genesis - eNews and Updates"
-msgstr "Genesis - eNews e Atualizações"
+msgstr "Генезис- електронните новини и актуализации"
 
 #: lib/widgets/enews-widget.php:115 lib/widgets/featured-page-widget.php:165
 #: lib/widgets/featured-post-widget.php:221
@@ -1183,11 +1183,11 @@ msgstr "Genesis - eNews e Atualizações"
 #: lib/widgets/latest-tweets-widget.php:181
 #: lib/widgets/user-profile-widget.php:136
 msgid "Title"
-msgstr "Título"
+msgstr "Надпис"
 
 #: lib/widgets/enews-widget.php:120
 msgid "Text To Show"
-msgstr "Texto para mostrar"
+msgstr "Текст за показване"
 
 #: lib/widgets/enews-widget.php:125
 msgid "Google/Feedburner ID"
@@ -1195,50 +1195,50 @@ msgstr "Google/Feedburner ID"
 
 #: lib/widgets/enews-widget.php:130
 msgid "Enter your email address..."
-msgstr "Digite seu endereço de e-mail ..."
+msgstr "Напишете вашия емайл адрес"
 
 #: lib/widgets/enews-widget.php:131
 msgid "Input Text"
-msgstr "Digite o texto"
+msgstr "Въвеждане на текст."
 
 #: lib/widgets/enews-widget.php:136
 msgid "Go"
-msgstr "Ir"
+msgstr "Отиди"
 
 #: lib/widgets/enews-widget.php:137
 msgid "Button Text"
-msgstr "Botão de texto"
+msgstr "Бутон за текст"
 
 #: lib/widgets/featured-page-widget.php:51
 msgid "Displays featured page with thumbnails"
-msgstr "Exibe a página em destaque com miniaturas"
+msgstr "Показва черта от страницата в миниатюри"
 
 #: lib/widgets/featured-page-widget.php:60
 msgid "Genesis - Featured Page"
-msgstr "Genesis - Página Destaque"
+msgstr "Генезис- препоръчани страници"
 
 #: lib/widgets/featured-page-widget.php:104
 msgid "by"
-msgstr "por"
+msgstr "от"
 
 #: lib/widgets/featured-page-widget.php:170
 msgid "Page"
-msgstr "Página"
+msgstr "Страница"
 
 #: lib/widgets/featured-page-widget.php:178
 #: lib/widgets/featured-post-widget.php:307
 msgid "Show Featured Image"
-msgstr "Mostra Imagem em Destaque"
+msgstr "Показване на избратото изображение"
 
 #: lib/widgets/featured-page-widget.php:182
 #: lib/widgets/featured-post-widget.php:311
 msgid "Image Size"
-msgstr "Tamanho da Imagem"
+msgstr "Размер на снимка"
 
 #: lib/widgets/featured-page-widget.php:194
 #: lib/widgets/featured-post-widget.php:323
 msgid "Image Alignment"
-msgstr "Alinhamento da Imagem"
+msgstr "Подравняване на снимката"
 
 #: lib/widgets/featured-page-widget.php:196
 #: lib/widgets/featured-post-widget.php:295
@@ -1246,68 +1246,68 @@ msgstr "Alinhamento da Imagem"
 #: lib/widgets/user-profile-widget.php:160
 #: lib/widgets/user-profile-widget.php:180
 msgid "None"
-msgstr "Nenhum"
+msgstr "Нищо"
 
 #: lib/widgets/featured-page-widget.php:206
 msgid "Show Page Title"
-msgstr "Mostrar Título da Página"
+msgstr "Показване на наименованието на страницата"
 
 #: lib/widgets/featured-page-widget.php:211
 msgid "Show Page Byline"
-msgstr "Mostrar Detalhes da Página"
+msgstr "Показване страницата на  съдържанието на аватара"
 
 #: lib/widgets/featured-page-widget.php:216
 msgid "Show Page Content"
-msgstr "Mostrar Conteúdo da Página"
+msgstr "Показване на съдържанието на страницата"
 
 #: lib/widgets/featured-page-widget.php:220
 msgid "Content Character Limit"
-msgstr "Limitar o número de caracteres"
+msgstr "Лимит на съдържащите се символи"
 
 #: lib/widgets/featured-page-widget.php:225
 msgid "More Text"
-msgstr "Mais texto"
+msgstr "Още текст"
 
 #: lib/widgets/featured-post-widget.php:54
 msgid "[Read More...]"
-msgstr "[Ler Mais...]"
+msgstr "[Прочети повече...]"
 
 #: lib/widgets/featured-post-widget.php:58
 msgid "More Posts from this Category"
-msgstr "Mais Posts nesta categoria"
+msgstr "Още публикации от тази категория"
 
 #: lib/widgets/featured-post-widget.php:63
 msgid "Displays featured posts with thumbnails"
-msgstr "Exibe o post em destaque com miniaturas"
+msgstr "Показва препоръчани публикации с миниатюри."
 
 #: lib/widgets/featured-post-widget.php:72
 msgid "Genesis - Featured Posts"
-msgstr "Genesis - Posts em Destaque"
+msgstr "Генезис- избрани публикации"
 
 #: lib/widgets/featured-post-widget.php:230
 msgid "Category"
-msgstr "Categoria"
+msgstr "Категория"
 
 #: lib/widgets/featured-post-widget.php:244
 #: lib/widgets/featured-post-widget.php:382
 msgid "Number of Posts to Show"
-msgstr "Número de posts à exibir"
+msgstr "Брой на публикации за показване"
 
 #: lib/widgets/featured-post-widget.php:249
 msgid "Number of Posts to Offset"
-msgstr "Número de posts para exibir"
+msgstr "Брой публикации за изместване"
 
 #: lib/widgets/featured-post-widget.php:254
 msgid "Order By"
-msgstr "Classificar por"
+msgstr "Подреждане по"
 
 #: lib/widgets/featured-post-widget.php:256
 msgid "Date"
-msgstr "Data"
+msgstr "Дата"
 
 #: lib/widgets/featured-post-widget.php:258
 msgid "Parent"
-msgstr "Raiz"
+msgstr "Източник/причина"
 
 #: lib/widgets/featured-post-widget.php:259
 msgid "ID"
@@ -1315,256 +1315,256 @@ msgstr "ID"
 
 #: lib/widgets/featured-post-widget.php:260
 msgid "Comment Count"
-msgstr "Número de comentários"
+msgstr "Преброяване на коментарите"
 
 #: lib/widgets/featured-post-widget.php:261
 msgid "Random"
-msgstr "Aleatório "
+msgstr "Случаен"
 
 #: lib/widgets/featured-post-widget.php:266
 msgid "Sort Order"
-msgstr "Ordem de classificação"
+msgstr "Ред на сортиране"
 
 #: lib/widgets/featured-post-widget.php:268
 msgid "Descending (3, 2, 1)"
-msgstr "Descendente (3, 2, 1)"
+msgstr "Низходящ (3, 2, 1)"
 
 #: lib/widgets/featured-post-widget.php:269
 msgid "Ascending (1, 2, 3)"
-msgstr "Ascendente (1, 2, 3)"
+msgstr "Възходящ (1, 2, 3)"
 
 #: lib/widgets/featured-post-widget.php:279
 msgid "Show Author Gravatar"
-msgstr "Mostrar Gravatar do Autor"
+msgstr "Покажи Аватара"
 
 #: lib/widgets/featured-post-widget.php:283
 #: lib/widgets/user-profile-widget.php:146
 msgid "Gravatar Size"
-msgstr "Tamanho do Gravatar"
+msgstr "Размер на аватара"
 
 #: lib/widgets/featured-post-widget.php:285
 msgid "Small (45px)"
-msgstr "Pequeno (45px)"
+msgstr "Малък (45px)"
 
 #: lib/widgets/featured-post-widget.php:286
 msgid "Medium (65px)"
-msgstr "Médio (65px)"
+msgstr "Среден (65px)"
 
 #: lib/widgets/featured-post-widget.php:287
 msgid "Large (85px)"
-msgstr "Grande (85px)"
+msgstr "Голям (85px)"
 
 #: lib/widgets/featured-post-widget.php:288
 msgid "Extra Large (125px)"
-msgstr "Extra Grande (125px)"
+msgstr "Екстра голям (125px)"
 
 #: lib/widgets/featured-post-widget.php:293
 #: lib/widgets/user-profile-widget.php:158
 msgid "Gravatar Alignment"
-msgstr "Alinhamento do Gravatar"
+msgstr "Подравняване  на аватара"
 
 #: lib/widgets/featured-post-widget.php:341
 msgid "Show Post Title"
-msgstr "Mostrar Título do Post"
+msgstr "Покажи публикуваното наименование"
 
 #: lib/widgets/featured-post-widget.php:346
 msgid "Show Post Info"
-msgstr "Mostrar Informação do Post"
+msgstr "Показване на информационната публикация"
 
 #: lib/widgets/featured-post-widget.php:351
 msgid "Content Type"
-msgstr "Tipo de Conteúdo"
+msgstr "Тип съдържание"
 
 #: lib/widgets/featured-post-widget.php:353
 msgid "Show Content"
-msgstr "Mostrar conteúdo"
+msgstr "Показване на съдържанието"
 
 #: lib/widgets/featured-post-widget.php:354
 msgid "Show Excerpt"
-msgstr "Mostrar Resumo"
+msgstr "Поазване на извадки"
 
 #: lib/widgets/featured-post-widget.php:355
 msgid "Show Content Limit"
-msgstr "Mostra o limite do conteúdo"
+msgstr "Показване на лимит на съдържание"
 
 #: lib/widgets/featured-post-widget.php:356
 msgid "No Content"
-msgstr "Nenhum conteúdo"
+msgstr "Няма съдържание"
 
 #: lib/widgets/featured-post-widget.php:366
 msgid "More Text (if applicable)"
-msgstr "Leia mais (se aplicável)"
+msgstr "Още текст (ако е приложим)"
 
 #: lib/widgets/featured-post-widget.php:374
 msgid "To display an unordered list of more posts from this category, please fill out the information below"
-msgstr "Para exibir uma lista desordenada de mais posts desta categoria, por favor, preencha o formulário abaixo"
+msgstr "За да се покаже неподреден списък на повече публикации от тази категория, моля попълнете информацията по-долу."
 
 #: lib/widgets/featured-post-widget.php:392
 msgid "Show Category Archive Link"
-msgstr "Mostrar os links para os arquivos da Categoria"
+msgstr "Показване на категория архивни връзки"
 
 #: lib/widgets/featured-post-widget.php:396
 msgid "Link Text"
-msgstr "Link do Texto"
+msgstr "Връзка на текст"
 
 #: lib/widgets/latest-tweets-widget.php:49
 msgid "Display a list of your latest tweets."
-msgstr ""
+msgstr "Показване на списък с последните ви туитове."
 
 #: lib/widgets/latest-tweets-widget.php:58
 msgid "Genesis - Latest Tweets"
-msgstr "Genesis - Últimos Tweets"
+msgstr "Генезис - Последни туитове"
 
 #: lib/widgets/latest-tweets-widget.php:98
 msgid "The Twitter API is taking too long to respond. Please try again later."
-msgstr "A API do Twitter está demorando muito para responder. Por favor, tente novamente mais tarde."
+msgstr "Twitter API е твърде дълъг, за да реагира. Моля, опитайте отново по-късно."
 
 #: lib/widgets/latest-tweets-widget.php:101
 msgid "There was an error while attempting to contact the Twitter API. Please try again."
-msgstr "Ocorreu um erro durante a tentativa de manter contato com a API do Twitter. Por favor, tente novamente."
+msgstr "Имаше грешка при опит да се свърже с Twitter API. Моля, опитайте отново."
 
 #: lib/widgets/latest-tweets-widget.php:104
 msgid "The Twitter API returned an error while processing your request. Please try again."
-msgstr "A API do Twitter retornou um erro ao processar o pedido. Por favor, tente novamente."
+msgstr "Twitter API върна грешка при обработката на молбата ви. Моля, опитайте отново."
 
 #: lib/widgets/latest-tweets-widget.php:118
 msgid "about %s ago"
-msgstr "sobre %s atrás"
+msgstr "за  %s преди"
 
 #: lib/widgets/latest-tweets-widget.php:186
 msgid "Twitter Username"
-msgstr "Nome de Usuário no Twitter"
+msgstr "Twitter потребителско име"
 
 #: lib/widgets/latest-tweets-widget.php:191
 msgid "Number of Tweets to Show"
-msgstr "Número de tweets para mostrar"
+msgstr "Брой на туитовете  за показване"
 
 #: lib/widgets/latest-tweets-widget.php:197
 msgid "Hide @ Replies"
-msgstr "Ocultar @ Respostas"
+msgstr "Скриване @  Отговорите"
 
 #: lib/widgets/latest-tweets-widget.php:201
 msgid "Load new Tweets every"
-msgstr "Atualizar a cada novo tweet"
+msgstr "Зареди всички нови туитове"
 
 #: lib/widgets/latest-tweets-widget.php:203
 msgid "5 Min."
-msgstr "5 min."
+msgstr "5 минута"
 
 #: lib/widgets/latest-tweets-widget.php:204
 msgid "15 Minutes"
-msgstr "15 minutos"
+msgstr "15 минута"
 
 #: lib/widgets/latest-tweets-widget.php:205
 msgid "30 Minutes"
-msgstr "30 minutos"
+msgstr "30 минута"
 
 #: lib/widgets/latest-tweets-widget.php:206
 msgid "1 Hour"
-msgstr "1 hora"
+msgstr "1 час"
 
 #: lib/widgets/latest-tweets-widget.php:207
 msgid "2 Hours"
-msgstr "2 horas"
+msgstr "2 час"
 
 #: lib/widgets/latest-tweets-widget.php:208
 msgid "4 Hours"
-msgstr "4 horas"
+msgstr "4 час"
 
 #: lib/widgets/latest-tweets-widget.php:209
 msgid "12 Hours"
-msgstr "12 horas"
+msgstr "12 час"
 
 #: lib/widgets/latest-tweets-widget.php:210
 msgid "24 Hours"
-msgstr "24 horas"
+msgstr "24 час"
 
 #: lib/widgets/latest-tweets-widget.php:216
 msgid "Include link to twitter page?"
-msgstr "Incluir um link para a página do Twitter?"
+msgstr "Включване на линк към страница в Twitter?"
 
 #: lib/widgets/latest-tweets-widget.php:220
 msgid "Link Text (required)"
-msgstr "Texto do link (obrigatório)"
+msgstr "Текстова връзка (задължително)"
 
 #: lib/widgets/menu-categories-widget.php:42
 #: lib/widgets/menu-pages-widget.php:42
 msgid "This widget has been deprecated, and will eventually be removed. DO NOT use it. You have been warned."
-msgstr ""
+msgstr "Този уиджет е отхвърлен и в крайна сметка ще бъде премахнат. Не го използвайте. Вие бяхте предупредени."
 
 #: lib/widgets/menu-categories-widget.php:45
 msgid "Genesis - Category Menu"
-msgstr ""
+msgstr "Генезис - категория меню"
 
 #: lib/widgets/menu-categories-widget.php:120
 #: lib/widgets/menu-pages-widget.php:126
 msgid "This widget has been deprecated, and will eventually be removed. We suggest that you <a href=\"%s\">create a menu</a> and use the \"Custom Menu\" widget instead."
-msgstr ""
+msgstr "Този уиджет е отхвърлен и в крайна сметка ще бъде премахнат.Предлагаме ви <a href=\"%s\">create a menu</a> and use the \"Custom Menu\" widget instead."
 
 #: lib/widgets/menu-pages-widget.php:51
 msgid "Genesis - Page Menu"
-msgstr ""
+msgstr "Генезис - Меню на страница"
 
 #: lib/widgets/user-profile-widget.php:42
 msgid "[Read More %s]"
-msgstr "[Ler mais %s]"
+msgstr "[Прочети повече%s]"
 
 #: lib/widgets/user-profile-widget.php:48
 msgid "Displays user profile block with Gravatar"
-msgstr "Exibe o bloco de perfil de usuário com Gravatar"
+msgstr "Показва потребителски блок профил на аватара"
 
 #: lib/widgets/user-profile-widget.php:57
 msgid "Genesis - User Profile"
-msgstr "Genesis - Perfil de Usuário"
+msgstr "Генезис - потребителски профил"
 
 #: lib/widgets/user-profile-widget.php:96
 msgid "View My Blog Posts"
-msgstr "Veja os meus Posts"
+msgstr "Преглед на моите блог публикации "
 
 #: lib/widgets/user-profile-widget.php:141
 msgid "Select a user. The email address for this account will be used to pull the Gravatar image."
-msgstr "Selecione um usuário. O endereço de email desta conta será usada para carregar o Gravatar associado."
+msgstr "Изберете потребител. Адресът на електронната поща за този профил ще бъде използван, за да дръпнем  изображението от аватара."
 
 #: lib/widgets/user-profile-widget.php:149
 msgid "Small"
-msgstr "Pequeno"
+msgstr "малък"
 
 #: lib/widgets/user-profile-widget.php:149
 msgid "Medium"
-msgstr "Médio"
+msgstr "среден"
 
 #: lib/widgets/user-profile-widget.php:149
 msgid "Large"
-msgstr "Grande"
+msgstr "голям"
 
 #: lib/widgets/user-profile-widget.php:149
 msgid "Extra Large"
-msgstr "Extra Grande"
+msgstr "много голям"
 
 #: lib/widgets/user-profile-widget.php:167
 msgid "Select which text you would like to use as the author description"
-msgstr "Selecione qual o texto que você gostaria de usar como a descrição do autor"
+msgstr "Изберете текста, който бихте искали да използвате  като авторско описание"
 
 #: lib/widgets/user-profile-widget.php:170
 msgid "Author Bio"
-msgstr "Biografia do Autor "
+msgstr "автор био"
 
 #: lib/widgets/user-profile-widget.php:172
 msgid "Custom Text (below)"
-msgstr "Personalizar o texto (abaixo)"
+msgstr "Потребителски Текст (по-долу)"
 
 #: lib/widgets/user-profile-widget.php:173
 msgid "Custom Text Content"
-msgstr ""
+msgstr "Потребителски Текст съдържание"
 
 #: lib/widgets/user-profile-widget.php:179
 msgid "Choose your extended \"About Me\" page from the list below. This will be the page linked to at the end of the about me section."
-msgstr "Escolha a opção \"Sobre mim\" na lista abaixo. Esta página será ligado ao final da seção \"Sobre mim\"."
+msgstr "Изберете продължителната  \"За мен \" страница от списъка по-долу. Това ще бъде страницата, свързана  в края на моя  раздел."
 
 #: lib/widgets/user-profile-widget.php:184
 msgid "Extended page link text"
-msgstr ""
+msgstr "Разширен текст за връзка на страница"
 
 #: lib/widgets/user-profile-widget.php:190
 msgid "Show Author Archive Link?"
-msgstr "Mostrar link para o arquivo do Autor?"
+msgstr "Покажи аватар архивната връзка?"

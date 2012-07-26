@@ -4,7 +4,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_i
 Tags: genesis, translations,
 Requires at least: 3.1
 Tested up to: 3.4
-Stable tag: 1.5.0
+Stable tag: 1.5
 
 Translate your Genesis powered WordPress site into one of the available languages.
 
@@ -29,6 +29,7 @@ Currently the following translations are available for Genesis 1.8.x
 * French - fr_FR
 * Indonesian - id_ID
 * Turkish - tr_TR
+* Russian - ru_RU
 * Greek - el_GR (90%)
 * Hebrew - he_IL (95% ready)
 * Polish - pl_PL (89% ready)
@@ -71,11 +72,19 @@ Visit the [StudioPress GlotPress installation](http://translate.studiopress.com/
 
 That's because there isn't any. If you have one of the provided languages properly configured in your `wp-config.php` file, then upon activation you should see all matters Genesis automagically translated.
 
+= When I've activated your plugin there are still some words in English on my site =
+
+Most likely you either have words hardcoded in your child theme's `functions.php` file or you're working with outdated (or incomplete) WordPress translation.
+
 == Screenshots ==
 
 No screenshots (yet). Let me know if you need some.
 
 == Changelog ==
+
+= 1.6.0 =
+
+Few minor updates Romanian and Portuguese Brazilian, but mostly added Russian (ru_RU).
 
 = 1.5.0 =
 
