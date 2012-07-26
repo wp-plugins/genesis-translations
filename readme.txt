@@ -4,7 +4,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_i
 Tags: genesis, translations,
 Requires at least: 3.1
 Tested up to: 3.4
-Stable tag: 1.5
+Stable tag: 1.6
 
 Translate your Genesis powered WordPress site into one of the available languages.
 
