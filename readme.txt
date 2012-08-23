@@ -3,8 +3,8 @@ Contributors: DeFries
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=4UVLDL3LEG2QG
 Tags: genesis, translations,
 Requires at least: 3.1
-Tested up to: 3.4
-Stable tag: 1.5
+Tested up to: 3.4.1
+Stable tag: 1.7
 
 Translate your Genesis powered WordPress site into one of the available languages.
 
@@ -30,11 +30,12 @@ Currently the following translations are available for Genesis 1.8.x
 * Indonesian - id_ID
 * Turkish - tr_TR
 * Russian - ru_RU
+* Norwegian - nb_NO
+* Portuguese-Brazilian - pt_BR 
 * Greek - el_GR (90%)
 * Hebrew - he_IL (95% ready)
 * Polish - pl_PL (89% ready)
 * Portuguese - pt_PT (88% ready)
-* Portuguese-Brazilian - pt_BR (88% ready)
 * Hungarian - hu_HU (86% ready)
 * Japanese - ja(77% ready)
 * Chinese - zh_CN (68% ready)
@@ -82,9 +83,13 @@ No screenshots (yet). Let me know if you need some.
 
 == Changelog ==
 
+= 1.7.0 = 
+
+Added Norwegian ( nb_NO ) and huge update to Portuguese Brazilian. Small updates to French, Danish and Russian
+
 = 1.6.0 =
 
-Few minor updates Romanian and Portuguese Brazilian, but mostly added Russian (ru_RU).
+Few minor updates Bulgarian, Romanian, Chinese and Portuguese Brazilian, but mostly added Russian (ru_RU) and Icelandic (is_IS).
 
 = 1.5.0 =
 
