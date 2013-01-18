@@ -14,7 +14,7 @@ This plugin translates your Genesis powered WordPress site easily with one of th
 
 No need to fuss about with your `functions.php` file or uploading `.mo` and `.po` files. Just install this plugin et voil&aacute;!
 
-Currently the following translations are available for Genesis 1.8.x
+Currently the following translations are available for Genesis 1.9.x
 
 * Danish - da_DK
 * Dutch - nl_NL
@@ -144,6 +144,10 @@ Fixing a typo. It happens.
 * First release. Just testing things out.
 
 == Upgrade Notice ==
+
+= 1.8.1 = 
+
+* Update to reflect changes in Genesis 1.9
 
 = 1.1 =
 

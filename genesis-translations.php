@@ -21,7 +21,7 @@
 *
 */
 define( 'GENTRANS_FILE','genesis-translations/genesis-translations.php' );
-define( 'GENTRANS_VERSION','1.8.0' );
+define( 'GENTRANS_VERSION','1.8.1' );
 
 /**
  * The text domain for the plugin
