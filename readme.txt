@@ -83,6 +83,14 @@ No screenshots (yet). Let me know if you need some.
 
 == Changelog ==
 
+= 1.8.3 =
+
+* Updated Danish, Dutch, German, Hebrew, French and added Mexican Spanish
+
+= 1.8.2 =
+
+* Updated various languages
+
 = 1.8.1 =
 
 * Accidentally deleted helper function. Sorry about that folks.
