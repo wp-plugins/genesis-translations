@@ -4,7 +4,7 @@ Donate link: http://remkusdevries.com/donate/
 Tags: genesis, translations,
 Requires at least: 3.1
 Tested up to: 3.5.1
-Stable tag: 1.9.3
+Stable tag: 2.0.0
 
 Translate your Genesis Framework powered WordPress site into one of the available languages.
 
